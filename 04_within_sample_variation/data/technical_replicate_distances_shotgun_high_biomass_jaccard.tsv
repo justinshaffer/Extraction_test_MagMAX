@@ -1,0 +1,419 @@
+sample1	sample2	value	sample1_type	sample1_extraction_protocol_short	sample2_type	sample2_extraction_protocol_short	sample_type	sample_type_2	biomass_sample	biomass_sample_long
+food_sourkraut_1_1_microbiome20_H	food_sourkraut_1_2_microbiome20_H	0.3961218836565097	sourkraut classic caraway	MM (20-min.)	sourkraut classic caraway	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_1_microbiome20_H	food_sourkraut_1_3_microbiome20_H	0.5904365904365905	sourkraut classic caraway	MM (20-min.)	sourkraut classic caraway	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_1_microbiome2_H	food_sourkraut_1_2_microbiome2_H	0.44946236559139785	sourkraut classic caraway	MM (2-min.)	sourkraut classic caraway	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_1_microbiome2_H	food_sourkraut_1_3_microbiome2_H	0.4673684210526316	sourkraut classic caraway	MM (2-min.)	sourkraut classic caraway	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_1_qiagen_H	food_sourkraut_1_2_qiagen_H	0.40253164556962023	sourkraut classic caraway	PS	sourkraut classic caraway	PS	food	sourkraut	high	High biomass
+food_sourkraut_1_1_qiagen_H	food_sourkraut_1_3_qiagen_H	0.43427230046948356	sourkraut classic caraway	PS	sourkraut classic caraway	PS	food	sourkraut	high	High biomass
+food_sourkraut_1_2_microbiome20_H	food_sourkraut_1_3_microbiome20_H	0.49776785714285715	sourkraut classic caraway	MM (20-min.)	sourkraut classic caraway	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_2_microbiome2_H	food_sourkraut_1_3_microbiome2_H	0.32425742574257427	sourkraut classic caraway	MM (2-min.)	sourkraut classic caraway	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_1_2_qiagen_H	food_sourkraut_1_3_qiagen_H	0.32132963988919666	sourkraut classic caraway	PS	sourkraut classic caraway	PS	food	sourkraut	high	High biomass
+food_sourkraut_2_1_microbiome20_H	food_sourkraut_2_2_microbiome20_H	0.3591682419659735	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_1_microbiome20_H	food_sourkraut_2_3_microbiome20_H	0.3425196850393701	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_1_microbiome2_H	food_sourkraut_2_2_microbiome2_H	0.30406852248394006	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_1_microbiome2_H	food_sourkraut_2_3_microbiome2_H	0.29809725158562367	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_1_qiagen_H	food_sourkraut_2_2_qiagen_H	0.3691148775894539	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+food_sourkraut_2_1_qiagen_H	food_sourkraut_2_3_qiagen_H	0.3813868613138686	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+food_sourkraut_2_2_microbiome20_H	food_sourkraut_2_3_microbiome20_H	0.32727272727272727	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_2_microbiome2_H	food_sourkraut_2_3_microbiome2_H	0.30176211453744495	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+food_sourkraut_2_2_qiagen_H	food_sourkraut_2_3_qiagen_H	0.370304114490161	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+food_yogurt_3_1_microbiome20_H	food_yogurt_3_2_microbiome20_H	0.5782747603833865	Yoplait strawberry	MM (20-min.)	Yoplait strawberry	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_3_1_microbiome20_H	food_yogurt_3_3_microbiome20_H	0.5	Yoplait strawberry	MM (20-min.)	Yoplait strawberry	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_3_1_microbiome2_H	food_yogurt_3_2_microbiome2_H	0.6347517730496454	Yoplait strawberry	MM (2-min.)	Yoplait strawberry	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_3_1_microbiome2_H	food_yogurt_3_3_microbiome2_H	0.4797979797979798	Yoplait strawberry	MM (2-min.)	Yoplait strawberry	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_3_1_qiagen_H	food_yogurt_3_2_qiagen_H	0.5291970802919708	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+food_yogurt_3_1_qiagen_H	food_yogurt_3_3_qiagen_H	0.5766666666666667	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+food_yogurt_3_2_microbiome20_H	food_yogurt_3_3_microbiome20_H	0.583596214511041	Yoplait strawberry	MM (20-min.)	Yoplait strawberry	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_3_2_microbiome2_H	food_yogurt_3_3_microbiome2_H	0.607773851590106	Yoplait strawberry	MM (2-min.)	Yoplait strawberry	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_3_2_qiagen_H	food_yogurt_3_3_qiagen_H	0.6306818181818182	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+food_yogurt_4_1_microbiome20_H	food_yogurt_4_2_microbiome20_H	0.4827586206896552	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_4_1_microbiome20_H	food_yogurt_4_3_microbiome20_H	0.5189003436426117	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_4_1_microbiome2_H	food_yogurt_4_2_microbiome2_H	0.40671641791044777	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_4_1_microbiome2_H	food_yogurt_4_3_microbiome2_H	0.41007194244604317	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_4_1_qiagen_H	food_yogurt_4_2_qiagen_H	0.503125	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+food_yogurt_4_1_qiagen_H	food_yogurt_4_3_qiagen_H	0.5463258785942492	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+food_yogurt_4_2_microbiome20_H	food_yogurt_4_3_microbiome20_H	0.49642857142857144	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+food_yogurt_4_2_microbiome2_H	food_yogurt_4_3_microbiome2_H	0.44404332129963897	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+food_yogurt_4_2_qiagen_H	food_yogurt_4_3_qiagen_H	0.4806201550387597	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+oral_human_A_1_microbiome20_H	oral_human_A_2_microbiome20_H	0.39700996677740863	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome20_H	oral_human_A_3_microbiome20_H	0.3884297520661157	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome20_H	oral_saliva_A_1_microbiome20_C	0.4180064308681672	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome20_H	oral_saliva_A_2_microbiome20_C	0.41818181818181815	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome20_H	oral_saliva_A_3_microbiome20_C	0.4128289473684211	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome2_H	oral_human_A_2_microbiome2_H	0.4003831417624521	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome2_H	oral_human_A_3_microbiome2_H	0.4060721062618596	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome2_H	oral_saliva_A_1_microbiome2_C	0.40943396226415096	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome2_H	oral_saliva_A_2_microbiome2_C	0.3996138996138996	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_1_microbiome2_H	oral_saliva_A_3_microbiome2_C	0.42435424354243545	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_1_qiagen_H	oral_human_A_2_qiagen_H	0.42694805194805197	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_1_qiagen_H	oral_human_A_3_qiagen_H	0.41569282136894825	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_1_qiagen_H	oral_saliva_A_1_qiagen_C	0.40397350993377484	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_1_qiagen_H	oral_saliva_A_2_qiagen_C	0.4006677796327212	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_1_qiagen_H	oral_saliva_A_3_qiagen_C	0.39057239057239057	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_2_microbiome20_H	oral_human_A_3_microbiome20_H	0.3783783783783784	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome20_H	oral_saliva_A_1_microbiome20_C	0.3903654485049834	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome20_H	oral_saliva_A_2_microbiome20_C	0.40609137055837563	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome20_H	oral_saliva_A_3_microbiome20_C	0.378839590443686	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome2_H	oral_human_A_3_microbiome2_H	0.3913857677902622	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome2_H	oral_saliva_A_1_microbiome2_C	0.4066543438077634	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome2_H	oral_saliva_A_2_microbiome2_C	0.4208566108007449	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_2_microbiome2_H	oral_saliva_A_3_microbiome2_C	0.4098360655737705	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_2_qiagen_H	oral_human_A_3_qiagen_H	0.44844517184942717	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_2_qiagen_H	oral_saliva_A_1_qiagen_C	0.4366883116883117	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_2_qiagen_H	oral_saliva_A_2_qiagen_C	0.3996655518394649	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_2_qiagen_H	oral_saliva_A_3_qiagen_C	0.40301003344481606	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_3_microbiome20_H	oral_saliva_A_1_microbiome20_C	0.408130081300813	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_3_microbiome20_H	oral_saliva_A_2_microbiome20_C	0.40268456375838924	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_3_microbiome20_H	oral_saliva_A_3_microbiome20_C	0.4132231404958678	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_A_3_microbiome2_H	oral_saliva_A_1_microbiome2_C	0.4149908592321755	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_3_microbiome2_H	oral_saliva_A_2_microbiome2_C	0.399624765478424	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_3_microbiome2_H	oral_saliva_A_3_microbiome2_C	0.4293381037567084	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_A_3_qiagen_H	oral_saliva_A_1_qiagen_C	0.4204355108877722	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_3_qiagen_H	oral_saliva_A_2_qiagen_C	0.3900343642611684	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_A_3_qiagen_H	oral_saliva_A_3_qiagen_C	0.37954939341421146	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_human_B_1_microbiome20_H	oral_human_B_2_microbiome20_H	0.4322820037105751	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_B_1_microbiome20_H	oral_human_B_3_microbiome20_H	0.43223443223443225	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_B_1_microbiome2_H	oral_human_B_2_microbiome2_H	0.448207171314741	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_B_1_microbiome2_H	oral_human_B_3_microbiome2_H	0.43724696356275305	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_B_1_qiagen_H	oral_human_B_2_qiagen_H	0.4665492957746479	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+oral_human_B_1_qiagen_H	oral_human_B_3_qiagen_H	0.4627949183303085	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+oral_human_B_2_microbiome20_H	oral_human_B_3_microbiome20_H	0.41589648798521256	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_B_2_microbiome2_H	oral_human_B_3_microbiome2_H	0.43380855397148677	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_B_2_qiagen_H	oral_human_B_3_qiagen_H	0.46153846153846156	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+oral_human_D_1_microbiome20_H	oral_human_D_2_microbiome20_H	0.4450084602368866	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome20_H	oral_human_D_3_microbiome20_H	0.4654895666131621	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome20_H	oral_saliva_D_1_microbiome20_C	0.4509466437177281	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome20_H	oral_saliva_D_2_microbiome20_C	0.4370748299319728	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome20_H	oral_saliva_D_3_microbiome20_C	0.4366438356164384	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome2_H	oral_human_D_2_microbiome2_H	0.4344569288389513	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome2_H	oral_human_D_3_microbiome2_H	0.5279187817258884	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome2_H	oral_saliva_D_1_microbiome2_C	0.44324324324324327	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome2_H	oral_saliva_D_2_microbiome2_C	0.45765765765765765	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_1_microbiome2_H	oral_saliva_D_3_microbiome2_C	0.42987249544626593	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_1_qiagen_H	oral_human_D_2_qiagen_H	0.43866171003717475	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_1_qiagen_H	oral_human_D_3_qiagen_H	0.4831081081081081	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_1_qiagen_H	oral_saliva_D_1_qiagen_C	0.43068391866913125	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_1_qiagen_H	oral_saliva_D_2_qiagen_C	0.4483985765124555	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_2_microbiome20_H	oral_human_D_3_microbiome20_H	0.48130841121495327	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome20_H	oral_saliva_D_1_microbiome20_C	0.42905982905982903	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome20_H	oral_saliva_D_2_microbiome20_C	0.4673202614379085	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome20_H	oral_saliva_D_3_microbiome20_C	0.46710526315789475	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome2_H	oral_human_D_3_microbiome2_H	0.4965753424657534	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome2_H	oral_saliva_D_1_microbiome2_C	0.43447037701974867	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome2_H	oral_saliva_D_2_microbiome2_C	0.4460431654676259	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_2_microbiome2_H	oral_saliva_D_3_microbiome2_C	0.4547069271758437	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_2_qiagen_H	oral_human_D_3_qiagen_H	0.4607329842931937	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_2_qiagen_H	oral_saliva_D_1_qiagen_C	0.41030534351145037	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_2_qiagen_H	oral_saliva_D_2_qiagen_C	0.39399624765478425	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_2_qiagen_H	oral_saliva_D_3_qiagen_C	0.3915547024952015	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_3_microbiome20_H	oral_saliva_D_1_microbiome20_C	0.47527910685805425	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_3_microbiome20_H	oral_saliva_D_2_microbiome20_C	0.4645669291338583	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_3_microbiome20_H	oral_saliva_D_3_microbiome20_C	0.47641509433962265	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_D_3_microbiome2_H	oral_saliva_D_1_microbiome2_C	0.5171849427168577	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_3_microbiome2_H	oral_saliva_D_2_microbiome2_C	0.5132450331125827	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_3_microbiome2_H	oral_saliva_D_3_microbiome2_C	0.49584026622296173	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_D_3_qiagen_H	oral_saliva_D_1_qiagen_C	0.4664371772805508	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_3_qiagen_H	oral_saliva_D_2_qiagen_C	0.46901172529313234	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_D_3_qiagen_H	oral_saliva_D_3_qiagen_C	0.44714038128249567	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_human_O_1_microbiome20_H	oral_human_O_2_microbiome20_H	0.41188118811881186	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_O_1_microbiome20_H	oral_human_O_3_microbiome20_H	0.42054263565891475	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_O_1_microbiome2_H	oral_human_O_2_microbiome2_H	0.3982494529540481	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_O_1_microbiome2_H	oral_human_O_3_microbiome2_H	0.39956803455723544	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_O_1_qiagen_H	oral_human_O_2_qiagen_H	0.4580152671755725	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+oral_human_O_1_qiagen_H	oral_human_O_3_qiagen_H	0.44886363636363635	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+oral_human_O_2_microbiome20_H	oral_human_O_3_microbiome20_H	0.36382536382536385	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_O_2_microbiome2_H	oral_human_O_3_microbiome2_H	0.36507936507936506	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_O_2_qiagen_H	oral_human_O_3_qiagen_H	0.4501915708812261	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+oral_human_P_1_microbiome20_H	oral_human_P_2_microbiome20_H	0.3648393194706994	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_P_1_microbiome20_H	oral_human_P_3_microbiome20_H	0.37265917602996257	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_P_1_microbiome2_H	oral_human_P_2_microbiome2_H	0.45796064400715564	human.saliva.P	MM (2-min.)	human.saliva.P	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_P_1_microbiome2_H	oral_human_P_3_microbiome2_H	0.39433962264150946	human.saliva.P	MM (2-min.)	human.saliva.P	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_P_1_qiagen_H	oral_human_P_3_qiagen_H	0.3925925925925926	human.saliva.P	PS	human.saliva.P	PS	human	human saliva	high	High biomass
+oral_human_P_2_microbiome20_H	oral_human_P_3_microbiome20_H	0.2924901185770751	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_P_2_microbiome2_H	oral_human_P_3_microbiome2_H	0.3727810650887574	human.saliva.P	MM (2-min.)	human.saliva.P	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome20_H	oral_human_Q_2_microbiome20_H	0.4548440065681445	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome20_H	oral_human_Q_3_microbiome20_H	0.42736486486486486	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome20_H	oral_saliva_Q_1_microbiome20_C	0.4449838187702265	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome20_H	oral_saliva_Q_2_microbiome20_C	0.43506493506493504	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome20_H	oral_saliva_Q_3_microbiome20_C	0.46070878274268107	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome2_H	oral_human_Q_2_microbiome2_H	0.42193308550185876	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome2_H	oral_human_Q_3_microbiome2_H	0.44181818181818183	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome2_H	oral_saliva_Q_1_microbiome2_C	0.42613636363636365	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome2_H	oral_saliva_Q_2_microbiome2_C	0.4318181818181818	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_microbiome2_H	oral_saliva_Q_3_microbiome2_C	0.44299065420560746	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_1_qiagen_H	oral_human_Q_2_qiagen_H	0.42	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_1_qiagen_H	oral_saliva_Q_1_qiagen_C	0.44623655913978494	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_1_qiagen_H	oral_saliva_Q_2_qiagen_C	0.4540540540540541	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_1_qiagen_H	oral_saliva_Q_3_qiagen_C	0.4585537918871252	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome20_H	oral_human_Q_3_microbiome20_H	0.4244482173174873	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome20_H	oral_saliva_Q_1_microbiome20_C	0.44227642276422763	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome20_H	oral_saliva_Q_2_microbiome20_C	0.44749596122778673	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome20_H	oral_saliva_Q_3_microbiome20_C	0.4413145539906103	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome2_H	oral_human_Q_3_microbiome2_H	0.4384057971014493	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome2_H	oral_saliva_Q_1_microbiome2_C	0.4076190476190476	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome2_H	oral_saliva_Q_2_microbiome2_C	0.41935483870967744	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_microbiome2_H	oral_saliva_Q_3_microbiome2_C	0.43947858472998136	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_2_qiagen_H	oral_human_Q_3_qiagen_H	0.45321100917431195	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_2_qiagen_H	oral_saliva_Q_1_qiagen_C	0.44403669724770645	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_2_qiagen_H	oral_saliva_Q_2_qiagen_C	0.4288389513108614	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_2_qiagen_H	oral_saliva_Q_3_qiagen_C	0.42830882352941174	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_3_microbiome20_H	oral_saliva_Q_2_microbiome20_C	0.42549668874172186	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_3_microbiome20_H	oral_saliva_Q_3_microbiome20_C	0.439873417721519	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_Q_3_microbiome2_H	oral_saliva_Q_1_microbiome2_C	0.43413729128014844	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_3_microbiome2_H	oral_saliva_Q_2_microbiome2_C	0.4425925925925926	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_3_microbiome2_H	oral_saliva_Q_3_microbiome2_C	0.43622920517560076	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_Q_3_qiagen_H	oral_saliva_Q_1_qiagen_C	0.4397031539888683	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_3_qiagen_H	oral_saliva_Q_2_qiagen_C	0.42424242424242425	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_Q_3_qiagen_H	oral_saliva_Q_3_qiagen_C	0.4553734061930783	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_human_R_1_microbiome2_H	oral_human_R_2_microbiome2_H	0.31047619047619046	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_R_1_microbiome2_H	oral_human_R_3_microbiome2_H	0.3533697632058288	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_R_2_microbiome2_H	oral_human_R_3_microbiome2_H	0.3409893992932862	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_S_1_microbiome20_H	oral_human_S_2_microbiome20_H	0.47291361639824303	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_S_1_microbiome20_H	oral_human_S_3_microbiome20_H	0.3898858075040783	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_S_1_microbiome2_H	oral_human_S_2_microbiome2_H	0.4762658227848101	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_S_1_microbiome2_H	oral_human_S_3_microbiome2_H	0.3953900709219858	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_S_1_qiagen_H	oral_human_S_2_qiagen_H	0.4759036144578313	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+oral_human_S_1_qiagen_H	oral_human_S_3_qiagen_H	0.4386252045826514	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+oral_human_S_2_microbiome20_H	oral_human_S_3_microbiome20_H	0.4644412191582003	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_S_2_microbiome2_H	oral_human_S_3_microbiome2_H	0.4672897196261682	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_S_2_qiagen_H	oral_human_S_3_qiagen_H	0.47575757575757577	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+oral_human_T_1_microbiome20_H	oral_human_T_2_microbiome20_H	0.4381551362683438	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_T_1_microbiome20_H	oral_human_T_3_microbiome20_H	0.39065817409766457	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_T_1_microbiome2_H	oral_human_T_2_microbiome2_H	0.38513513513513514	human.saliva.T	MM (2-min.)	human.saliva.T	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_T_1_microbiome2_H	oral_human_T_3_microbiome2_H	0.4009216589861751	human.saliva.T	MM (2-min.)	human.saliva.T	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_T_1_qiagen_H	oral_human_T_2_qiagen_H	0.44081632653061226	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+oral_human_T_1_qiagen_H	oral_human_T_3_qiagen_H	0.4471057884231537	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+oral_human_T_2_microbiome20_H	oral_human_T_3_microbiome20_H	0.41983122362869196	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+oral_human_T_2_microbiome2_H	oral_human_T_3_microbiome2_H	0.35167464114832536	human.saliva.T	MM (2-min.)	human.saliva.T	MM (2-min.)	human	human saliva	high	High biomass
+oral_human_T_2_qiagen_H	oral_human_T_3_qiagen_H	0.4801587301587302	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+oral_saliva_A_1_microbiome20_C	oral_saliva_A_2_microbiome20_C	0.3766891891891892	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_A_1_microbiome20_C	oral_saliva_A_3_microbiome20_C	0.41147540983606556	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_A_1_microbiome2_C	oral_saliva_A_2_microbiome2_C	0.40892193308550184	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_A_1_microbiome2_C	oral_saliva_A_3_microbiome2_C	0.4295900178253119	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_A_1_qiagen_C	oral_saliva_A_2_qiagen_C	0.38917089678510997	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_saliva_A_1_qiagen_C	oral_saliva_A_3_qiagen_C	0.411371237458194	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_saliva_A_2_microbiome20_C	oral_saliva_A_3_microbiome20_C	0.386986301369863	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_A_2_qiagen_C	oral_saliva_A_3_qiagen_C	0.38632478632478634	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+oral_saliva_D_1_microbiome20_C	oral_saliva_D_2_microbiome20_C	0.45805369127516776	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_D_1_microbiome20_C	oral_saliva_D_3_microbiome20_C	0.44991511035653653	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_D_1_microbiome2_C	oral_saliva_D_2_microbiome2_C	0.46471600688468157	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_D_1_microbiome2_C	oral_saliva_D_3_microbiome2_C	0.41622574955908287	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_D_1_qiagen_C	oral_saliva_D_2_qiagen_C	0.39814814814814814	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_saliva_D_1_qiagen_C	oral_saliva_D_3_qiagen_C	0.3773946360153257	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_saliva_D_2_microbiome20_C	oral_saliva_D_3_microbiome20_C	0.45439469320066334	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_D_2_microbiome2_C	oral_saliva_D_3_microbiome2_C	0.46286701208981	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_D_2_qiagen_C	oral_saliva_D_3_qiagen_C	0.3948339483394834	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+oral_saliva_Q_1_microbiome20_C	oral_saliva_Q_2_microbiome20_C	0.4304	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_1_microbiome20_C	oral_saliva_Q_3_microbiome20_C	0.4393241167434716	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_1_microbiome2_C	oral_saliva_Q_2_microbiome2_C	0.42359767891682787	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_1_microbiome2_C	oral_saliva_Q_3_microbiome2_C	0.44696969696969696	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_1_qiagen_C	oral_saliva_Q_2_qiagen_C	0.44423791821561337	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_saliva_Q_1_qiagen_C	oral_saliva_Q_3_qiagen_C	0.43486238532110094	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_saliva_Q_2_microbiome20_C	oral_saliva_Q_3_microbiome20_C	0.4442748091603053	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_2_microbiome2_C	oral_saliva_Q_3_microbiome2_C	0.44083969465648853	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+oral_saliva_Q_2_qiagen_C	oral_saliva_Q_3_qiagen_C	0.4253731343283582	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_A_2_1_microbiome2_C	0.4085667215815486	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_O_1_microbiome2_C	0.5311475409836065	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_P_1_microbiome2_C	0.5044091710758377	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_Q_1_1_microbiome2_C	0.5008488964346349	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_Q_2_1_microbiome2_C	0.4713584288052373	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.5588235294117647	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.43211920529801323	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	oral_throat_A_2_2_qiagen_C	0.5062695924764891	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	oral_throat_P_2_qiagen_C	0.46954813359528486	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	oral_throat_Q_1_2_qiagen_C	0.4805194805194805	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	oral_throat_Q_2_2_qiagen_C	0.4533106960950764	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	oral_throat_T_2_qiagen_C	0.5064695009242144	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_1_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.49909584086799275	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	oral_throat_O_1_microbiome2_C	0.5210084033613446	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	oral_throat_P_1_microbiome2_C	0.49547920433996384	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	oral_throat_Q_1_1_microbiome2_C	0.5103092783505154	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	oral_throat_Q_2_1_microbiome2_C	0.48013245033112584	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.5565371024734982	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.46115702479338844	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_A_2_2_qiagen_C	oral_throat_P_2_qiagen_C	0.5590682196339434	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_2_2_qiagen_C	oral_throat_Q_1_2_qiagen_C	0.5596184419713831	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_2_2_qiagen_C	oral_throat_Q_2_2_qiagen_C	0.5170876671619614	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_2_2_qiagen_C	oral_throat_T_2_qiagen_C	0.6080870917573873	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_2_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.5421303656597775	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_A_3_1_microbiome20_C	oral_throat_A_3_2_microbiome20_C	0.4290375203915171	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_A_3_1_microbiome20_C	oral_throat_W_microbiome20_C	0.5063752276867031	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_A_3_1_microbiome20_C	skin_throat_fresh_A_2_microbiome20_C	0.4230118443316413	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_A_3_2_microbiome20_C	oral_throat_W_microbiome20_C	0.5164075993091537	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_A_3_2_microbiome20_C	skin_throat_fresh_A_2_microbiome20_C	0.42880258899676377	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_B_1_1_microbiome2_C	oral_throat_B_2_1_microbiome2_C	0.4415841584158416	human throat B	MM (2-min.)	human throat B	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_B_1_2_qiagen_C	oral_throat_B_2_2_qiagen_C	0.4645390070921986	human throat B	PS	human throat B	PS	human	human throat	high	High biomass
+oral_throat_D_3_1_microbiome20_C	oral_throat_D_3_2_microbiome20_C	0.49183303085299457	human throat D	MM (20-min.)	human throat D	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_O_1_microbiome2_C	oral_throat_P_1_microbiome2_C	0.476	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_O_1_microbiome2_C	oral_throat_Q_1_1_microbiome2_C	0.47900763358778625	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_O_1_microbiome2_C	oral_throat_Q_2_1_microbiome2_C	0.5226480836236934	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_O_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.5295275590551181	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_O_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.5529411764705883	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_P_1_microbiome2_C	oral_throat_Q_1_1_microbiome2_C	0.4714285714285714	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_P_1_microbiome2_C	oral_throat_Q_2_1_microbiome2_C	0.49056603773584906	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_P_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.490280777537797	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_P_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.5027624309392266	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_P_2_qiagen_C	oral_throat_Q_1_2_qiagen_C	0.48760330578512395	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_P_2_qiagen_C	oral_throat_Q_2_2_qiagen_C	0.5232974910394266	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_P_2_qiagen_C	oral_throat_T_2_qiagen_C	0.5404858299595142	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_P_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.5169660678642715	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_Q_1_1_microbiome2_C	oral_throat_Q_2_1_microbiome2_C	0.49005424954792043	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_Q_1_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.5938697318007663	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_Q_1_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.532871972318339	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_Q_1_2_qiagen_C	oral_throat_Q_2_2_qiagen_C	0.47079646017699117	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_Q_1_2_qiagen_C	oral_throat_T_2_qiagen_C	0.5504761904761905	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_Q_1_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.5685557586837294	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_Q_2_1_microbiome2_C	oral_throat_T_1_microbiome2_C	0.603202846975089	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_Q_2_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.5165016501650165	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_Q_2_2_qiagen_C	oral_throat_T_2_qiagen_C	0.5687919463087249	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_Q_2_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.5269360269360269	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_T_1_microbiome2_C	skin_throat_fresh_A_1_1_microbiome2_C	0.5775401069518716	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+oral_throat_T_2_qiagen_C	skin_throat_fresh_A_1_2_qiagen_C	0.5267175572519084	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+oral_throat_U_microbiome20_C	oral_throat_eluent_U_microbiome20_C	0.49471830985915494	human throat U	MM (20-min.)	human throat U	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_V_microbiome20_C	oral_throat_eluent_V_microbiome20_C	0.4875	human throat V	MM (20-min.)	human throat V	MM (20-min.)	human	human throat	high	High biomass
+oral_throat_W_microbiome20_C	skin_throat_fresh_A_2_microbiome20_C	0.47232472324723246	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+skin_nares_Q_1_1_microbiome2_C	skin_nares_Q_2_1_microbiome2_C	0.5581395348837209	human nares Q	MM (2-min.)	human nares Q	MM (2-min.)	human	human nares	high	High biomass
+skin_nares_Q_1_2_microbiome20_C	skin_nares_Q_2_2_microbiome20_C	0.5763052208835341	human nares Q	MM (20-min.)	human nares Q	MM (20-min.)	human	human nares	high	High biomass
+skin_nares_R_2_microbiome20_C	skin_nares_eluent_R_2_microbiome20_C	0.5288220551378446	human nares R	MM (20-min.)	human nares R	MM (20-min.)	human	human nares	high	High biomass
+soil_rhizosphere_K_1_microbiome2_H	soil_rhizosphere_K_2_microbiome2_H	0.4801795063575168	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_1_microbiome2_H	soil_rhizosphere_K_3_microbiome2_H	0.5664845173041895	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_1_microbiome2_H	soil_rhizosphere_slurry_K_1_microbiome2_H	0.7894211576846307	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_1_microbiome2_H	soil_rhizosphere_slurry_K_2_microbiome2_H	0.7643564356435644	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_1_microbiome2_H	soil_rhizosphere_slurry_K_3_microbiome2_H	0.7839444995044599	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome20_H	soil_rhizosphere_K_3_microbiome20_H	0.5737158105403602	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome20_H	soil_rhizosphere_slurry_K_1_microbiome20_H	0.6802919708029197	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome20_H	soil_rhizosphere_slurry_K_2_microbiome20_H	0.7528430629264594	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome20_H	soil_rhizosphere_slurry_K_3_microbiome20_H	0.7009132420091324	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome2_H	soil_rhizosphere_K_3_microbiome2_H	0.590032154340836	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome2_H	soil_rhizosphere_slurry_K_1_microbiome2_H	0.8204911092294666	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome2_H	soil_rhizosphere_slurry_K_2_microbiome2_H	0.7815699658703071	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_microbiome2_H	soil_rhizosphere_slurry_K_3_microbiome2_H	0.8056027164685908	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_qiagen_H	soil_rhizosphere_slurry_K_1_qiagen_H	0.5719373219373219	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_qiagen_H	soil_rhizosphere_slurry_K_2_qiagen_H	0.704527402700556	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_2_qiagen_H	soil_rhizosphere_slurry_K_3_qiagen_H	0.6813271604938271	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome20_H	soil_rhizosphere_slurry_K_1_microbiome20_H	0.6312949640287769	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome20_H	soil_rhizosphere_slurry_K_2_microbiome20_H	0.7215428033866416	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome20_H	soil_rhizosphere_slurry_K_3_microbiome20_H	0.7058287795992714	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome2_H	soil_rhizosphere_slurry_K_1_microbiome2_H	0.7599469496021221	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome2_H	soil_rhizosphere_slurry_K_2_microbiome2_H	0.7320261437908496	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_K_3_microbiome2_H	soil_rhizosphere_slurry_K_3_microbiome2_H	0.7802056555269923	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_microbiome20_H	soil_rhizosphere_slurry_K_2_microbiome20_H	0.6705426356589147	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_microbiome20_H	soil_rhizosphere_slurry_K_3_microbiome20_H	0.6396508728179551	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_microbiome2_H	soil_rhizosphere_slurry_K_2_microbiome2_H	0.7097457627118644	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_microbiome2_H	soil_rhizosphere_slurry_K_3_microbiome2_H	0.6845637583892618	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_qiagen_H	soil_rhizosphere_slurry_K_2_qiagen_H	0.6528384279475983	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_1_qiagen_H	soil_rhizosphere_slurry_K_3_qiagen_H	0.6333333333333333	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_2_microbiome20_H	soil_rhizosphere_slurry_K_3_microbiome20_H	0.6511627906976745	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_2_microbiome2_H	soil_rhizosphere_slurry_K_3_microbiome2_H	0.7020833333333333	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+soil_rhizosphere_slurry_K_2_qiagen_H	soil_rhizosphere_slurry_K_3_qiagen_H	0.5274725274725275	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+stool_cat_O_1_microbiome20_H	stool_cat_O_2_microbiome20_H	0.9740932642487047	cat.feces.O	MM (20-min.)	cat.feces.O	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_O_1_microbiome20_H	stool_cat_O_3_microbiome20_H	0.4527736131934033	cat.feces.O	MM (20-min.)	cat.feces.O	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_O_1_microbiome2_H	stool_cat_O_2_microbiome2_H	0.40439932318104904	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_O_1_microbiome2_H	stool_cat_O_3_microbiome2_H	0.35283363802559414	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_O_1_qiagen_H	stool_cat_O_2_qiagen_H	0.4186413902053712	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+stool_cat_O_1_qiagen_H	stool_cat_O_3_qiagen_H	0.3608768971332209	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+stool_cat_O_2_microbiome20_H	stool_cat_O_3_microbiome20_H	0.987220447284345	cat.feces.O	MM (20-min.)	cat.feces.O	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_O_2_microbiome2_H	stool_cat_O_3_microbiome2_H	0.3793103448275862	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_O_2_qiagen_H	stool_cat_O_3_qiagen_H	0.4303599374021909	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+stool_cat_P_1_microbiome20_H	stool_cat_P_2_microbiome20_H	0.35984095427435386	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_P_1_microbiome20_H	stool_cat_P_3_microbiome20_H	0.3669201520912547	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_P_1_microbiome2_H	stool_cat_P_2_microbiome2_H	0.3490759753593429	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_P_1_microbiome2_H	stool_cat_P_3_microbiome2_H	0.3333333333333333	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_P_1_qiagen_H	stool_cat_P_2_qiagen_H	0.354251012145749	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+stool_cat_P_1_qiagen_H	stool_cat_P_3_qiagen_H	0.3306288032454361	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+stool_cat_P_2_microbiome20_H	stool_cat_P_3_microbiome20_H	0.32989690721649484	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+stool_cat_P_2_microbiome2_H	stool_cat_P_3_microbiome2_H	0.3097165991902834	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+stool_cat_P_2_qiagen_H	stool_cat_P_3_qiagen_H	0.33535353535353535	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+stool_human_A_1_1_microbiome20_H	stool_human_A_1_3_microbiome20_H	0.3382352941176471	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome20_H	stool_human_fresh_A_1_1_microbiome20_H	0.4088495575221239	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome20_H	stool_human_fresh_A_1_2_microbiome20_H	0.37050359712230213	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome20_H	stool_human_fresh_A_1_3_microbiome20_H	0.40394973070017953	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome2_H	stool_human_A_1_2_microbiome2_H	0.34	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome2_H	stool_human_A_1_3_microbiome2_H	0.39676840215439857	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome2_H	stool_human_fresh_A_1_1_microbiome2_H	0.4140786749482402	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_microbiome2_H	stool_human_fresh_A_1_2_microbiome2_H	0.39271255060728744	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_1_qiagen_H	stool_human_A_1_2_qiagen_H	0.30118110236220474	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_1_qiagen_H	stool_human_A_1_3_qiagen_H	0.35555555555555557	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_1_qiagen_H	stool_human_fresh_A_1_1_qiagen_H	0.4161735700197239	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_1_qiagen_H	stool_human_fresh_A_1_2_qiagen_H	0.4190283400809717	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_1_qiagen_H	stool_human_fresh_A_1_3_qiagen_H	0.448692152917505	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome20_H	stool_human_A_1_3_microbiome20_H	0.3692870201096892	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome20_H	stool_human_fresh_A_1_1_microbiome20_H	0.42170818505338076	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome20_H	stool_human_fresh_A_1_2_microbiome20_H	0.37158469945355194	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome20_H	stool_human_fresh_A_1_3_microbiome20_H	0.40255009107468126	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome2_H	stool_human_A_1_3_microbiome2_H	0.39464285714285713	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome2_H	stool_human_fresh_A_1_1_microbiome2_H	0.41478439425051333	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome2_H	stool_human_fresh_A_1_2_microbiome2_H	0.4	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_microbiome2_H	stool_human_fresh_A_1_3_microbiome2_H	0.4024390243902439	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_2_qiagen_H	stool_human_A_1_3_qiagen_H	0.330188679245283	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_2_qiagen_H	stool_human_fresh_A_1_1_qiagen_H	0.42209072978303747	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_2_qiagen_H	stool_human_fresh_A_1_2_qiagen_H	0.3958762886597938	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_2_qiagen_H	stool_human_fresh_A_1_3_qiagen_H	0.45161290322580644	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome20_H	stool_human_fresh_A_1_1_microbiome20_H	0.41459074733096085	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome20_H	stool_human_fresh_A_1_2_microbiome20_H	0.3877917414721723	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome20_H	stool_human_fresh_A_1_3_microbiome20_H	0.41831238779174146	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome2_H	stool_human_fresh_A_1_1_microbiome2_H	0.4650735294117647	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome2_H	stool_human_fresh_A_1_2_microbiome2_H	0.4337568058076225	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_microbiome2_H	stool_human_fresh_A_1_3_microbiome2_H	0.44789762340036565	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_A_1_3_qiagen_H	stool_human_fresh_A_1_1_qiagen_H	0.44339622641509435	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_3_qiagen_H	stool_human_fresh_A_1_2_qiagen_H	0.4437984496124031	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_A_1_3_qiagen_H	stool_human_fresh_A_1_3_qiagen_H	0.475	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_B_1_microbiome20_H	stool_human_B_2_microbiome20_H	0.27522935779816515	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+stool_human_B_1_microbiome20_H	stool_human_B_3_microbiome20_H	0.304270462633452	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+stool_human_B_1_microbiome2_H	stool_human_B_2_microbiome2_H	0.302504816955684	human.feces.B	MM (2-min.)	human.feces.B	MM (2-min.)	human	human feces	high	High biomass
+stool_human_B_1_microbiome2_H	stool_human_B_3_microbiome2_H	0.3223938223938224	human.feces.B	MM (2-min.)	human.feces.B	MM (2-min.)	human	human feces	high	High biomass
+stool_human_B_1_qiagen_H	stool_human_B_2_qiagen_H	0.3296903460837887	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+stool_human_B_1_qiagen_H	stool_human_B_3_qiagen_H	0.3240223463687151	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+stool_human_B_2_microbiome20_H	stool_human_B_3_microbiome20_H	0.2906764168190128	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+stool_human_B_2_microbiome2_H	stool_human_B_3_microbiome2_H	0.2988505747126437	human.feces.B	MM (2-min.)	human.feces.B	MM (2-min.)	human	human feces	high	High biomass
+stool_human_B_2_qiagen_H	stool_human_B_3_qiagen_H	0.33086876155268025	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_microbiome20_H	stool_human_fresh_A_1_2_microbiome20_H	0.33084112149532713	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_microbiome20_H	stool_human_fresh_A_1_3_microbiome20_H	0.3153846153846154	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_microbiome2_H	stool_human_fresh_A_1_2_microbiome2_H	0.3119266055045872	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_microbiome2_H	stool_human_fresh_A_1_3_microbiome2_H	0.29314420803782504	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_qiagen_H	stool_human_fresh_A_1_2_qiagen_H	0.31058823529411766	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_fresh_A_1_1_qiagen_H	stool_human_fresh_A_1_3_qiagen_H	0.34192037470725994	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_human_fresh_A_1_2_microbiome20_H	stool_human_fresh_A_1_3_microbiome20_H	0.3433395872420263	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_2_microbiome2_H	stool_human_fresh_A_1_3_microbiome2_H	0.29931972789115646	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+stool_human_fresh_A_1_2_qiagen_H	stool_human_fresh_A_1_3_qiagen_H	0.31862745098039214	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+stool_mouse_S_1_microbiome20_H	stool_mouse_S_3_microbiome20_H	0.39097744360902253	mouse.feces.S	MM (20-min.)	mouse.feces.S	MM (20-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_S_1_microbiome2_H	stool_mouse_S_2_microbiome2_H	0.3614457831325301	mouse.feces.S	MM (2-min.)	mouse.feces.S	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_S_1_microbiome2_H	stool_mouse_S_3_microbiome2_H	0.36085626911314983	mouse.feces.S	MM (2-min.)	mouse.feces.S	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_S_1_qiagen_H	stool_mouse_S_2_qiagen_H	0.4444444444444444	mouse.feces.S	PS	mouse.feces.S	PS	mouse	mouse feces	high	High biomass
+stool_mouse_S_1_qiagen_H	stool_mouse_S_3_qiagen_H	0.4605263157894737	mouse.feces.S	PS	mouse.feces.S	PS	mouse	mouse feces	high	High biomass
+stool_mouse_S_2_microbiome20_H	stool_mouse_S_3_microbiome20_H	0.3990498812351544	mouse.feces.S	MM (20-min.)	mouse.feces.S	MM (20-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_S_2_microbiome2_H	stool_mouse_S_3_microbiome2_H	0.34421364985163205	mouse.feces.S	MM (2-min.)	mouse.feces.S	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_S_2_qiagen_H	stool_mouse_S_3_qiagen_H	0.4853801169590643	mouse.feces.S	PS	mouse.feces.S	PS	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_microbiome20_H	stool_mouse_T_2_microbiome20_H	0.4959514170040486	mouse.feces.T	MM (20-min.)	mouse.feces.T	MM (20-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_microbiome20_H	stool_mouse_T_3_microbiome20_H	0.5121457489878543	mouse.feces.T	MM (20-min.)	mouse.feces.T	MM (20-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_microbiome2_H	stool_mouse_T_2_microbiome2_H	0.43733333333333335	mouse.feces.T	MM (2-min.)	mouse.feces.T	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_microbiome2_H	stool_mouse_T_3_microbiome2_H	0.47230320699708456	mouse.feces.T	MM (2-min.)	mouse.feces.T	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_qiagen_H	stool_mouse_T_2_qiagen_H	0.49	mouse.feces.T	PS	mouse.feces.T	PS	mouse	mouse feces	high	High biomass
+stool_mouse_T_1_qiagen_H	stool_mouse_T_3_qiagen_H	0.480719794344473	mouse.feces.T	PS	mouse.feces.T	PS	mouse	mouse feces	high	High biomass
+stool_mouse_T_2_microbiome20_H	stool_mouse_T_3_microbiome20_H	0.3802083333333333	mouse.feces.T	MM (20-min.)	mouse.feces.T	MM (20-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_2_microbiome2_H	stool_mouse_T_3_microbiome2_H	0.391304347826087	mouse.feces.T	MM (2-min.)	mouse.feces.T	MM (2-min.)	mouse	mouse feces	high	High biomass
+stool_mouse_T_2_qiagen_H	stool_mouse_T_3_qiagen_H	0.4849315068493151	mouse.feces.T	PS	mouse.feces.T	PS	mouse	mouse feces	high	High biomass
+tissue_mouse_U_1_microbiome20_H	tissue_mouse_U_2_microbiome20_H	0.5555555555555556	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome20_H	tissue_mouse_U_3_microbiome20_H	0.65	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome20_H	tissue_mouse_V_1_microbiome20_H	0.5294117647058824	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome20_H	tissue_mouse_V_2_microbiome20_H	0.6666666666666666	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome2_H	tissue_mouse_V_1_microbiome2_H	0.375	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome2_H	tissue_mouse_V_2_microbiome2_H	0.26666666666666666	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_1_microbiome2_H	tissue_mouse_V_3_microbiome2_H	0.42857142857142855	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_microbiome20_H	tissue_mouse_V_1_microbiome20_H	0.4375	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_microbiome20_H	tissue_mouse_V_2_microbiome20_H	0.6153846153846154	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_microbiome20_H	tissue_mouse_V_3_microbiome20_H	0.5789473684210527	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_microbiome2_H	tissue_mouse_U_3_microbiome2_H	0.38461538461538464	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_microbiome2_H	tissue_mouse_V_3_microbiome2_H	0.36363636363636365	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_qiagen_H	tissue_mouse_U_3_qiagen_H	0.3951612903225806	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_qiagen_H	tissue_mouse_V_2_qiagen_H	0.9040114613180515	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_2_qiagen_H	tissue_mouse_V_3_qiagen_H	0.9198250728862973	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_microbiome20_H	tissue_mouse_V_2_microbiome20_H	0.6296296296296297	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_microbiome2_H	tissue_mouse_V_1_microbiome2_H	0.35714285714285715	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_microbiome2_H	tissue_mouse_V_2_microbiome2_H	0.23076923076923078	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_microbiome2_H	tissue_mouse_V_3_microbiome2_H	0.2727272727272727	mouse.tissue.U	MM (2-min.)	mouse.tissue.U	MM (2-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_qiagen_H	tissue_mouse_V_2_qiagen_H	0.9078341013824884	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_U_3_qiagen_H	tissue_mouse_V_3_qiagen_H	0.9299065420560748	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_V_1_microbiome20_H	tissue_mouse_V_2_microbiome20_H	0.4782608695652174	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_V_1_microbiome20_H	tissue_mouse_V_3_microbiome20_H	0.47058823529411764	mouse.tissue.U	MM (20-min.)	mouse.tissue.U	MM (20-min.)	mouse	mouse jejunum tissue	high	High biomass
+tissue_mouse_V_2_qiagen_H	tissue_mouse_V_3_qiagen_H	0.574585635359116	mouse.tissue.U	PS	mouse.tissue.U	PS	mouse	mouse jejunum tissue	high	High biomass

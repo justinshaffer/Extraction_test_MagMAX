@@ -1,0 +1,839 @@
+sample1	sample2	value	sample1_type	sample1_extraction_protocol_short	sample2_type	sample2_extraction_protocol_short	sample_type	sample_type_2	biomass_sample	biomass_sample_long
+90990.12201.oral.saliva.Q.2.microbiome2.C	90990.12201.oral.saliva.Q.1.microbiome2.C	0.029096696287760685	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome2.C	90990.12201.oral.saliva.Q.3.microbiome2.C	0.02512015530092213	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome2.C	91743.12201.oral.human.Q.2.microbiome2.H	0.07814735381277597	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome2.C	91743.12201.oral.human.Q.1.microbiome2.H	0.07714868972125037	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome2.C	91743.12201.oral.human.Q.3.microbiome2.H	0.07898437309031782	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.throat.D.1.1.microbiome2.C	90990.12201.oral.throat.D.2.1.microbiome2.C	0.2036571419250581	human throat D	MM (2-min.)	human throat D	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome2.C	90990.12201.oral.saliva.D.2.microbiome2.C	0.03361877476178546	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome2.C	90990.12201.oral.saliva.D.1.microbiome2.C	0.03648177718854029	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome2.C	91743.12201.oral.human.D.2.microbiome2.H	0.0615786887616343	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome2.C	91743.12201.oral.human.D.1.microbiome2.H	0.07148387297962318	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saline.vtm.A.1.microbiome2.C	90990.12201.oral.saline.vtm.A.2.microbiome2.C	0.018493250030937693	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.A.1.microbiome2.C	90990.12201.oral.saline.vtm.A.3.microbiome2.C	0.020096832360107845	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.nares.fresh.A.1.1.microbiome2.C	90990.12201.skin.nares.A.2.1.microbiome2.C	0.09193023318627712	human nares A	MM (2-min.)	human nares A	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.skin.nares.fresh.A.1.1.microbiome2.C	90990.12201.skin.nares.A.1.1.microbiome2.C	0.08955731067536661	human nares A	MM (2-min.)	human nares A	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.vtm.Q.1.microbiome2.C	90990.12201.oral.saline.vtm.Q.2.microbiome2.C	0.049799897377719574	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.Q.1.microbiome2.C	90990.12201.oral.saline.vtm.Q.3.microbiome2.C	0.03565693830165197	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.forehead.D.1.1.microbiome2.C	90990.12201.skin.forehead.D.2.1.microbiome2.C	0.1699700989322398	human forehead D	MM (2-min.)	human forehead D	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.saliva.A.2.microbiome2.C	90990.12201.oral.saliva.A.1.microbiome2.C	0.061512700317555576	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome2.C	90990.12201.oral.saliva.A.3.microbiome2.C	0.03089118408808005	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome2.C	91743.12201.oral.human.A.2.microbiome2.H	0.053675528907313266	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome2.C	91743.12201.oral.human.A.1.microbiome2.H	0.08086636745619448	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome2.C	91743.12201.oral.human.A.3.microbiome2.H	0.04331949095721929	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.skin.forehead.A.1.1.microbiome2.C	90990.12201.skin.forehead.A.2.1.microbiome2.C	0.05189780494056881	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.skin.forehead.A.1.1.microbiome2.C	90990.12201.skin.forehead.fresh.A.1.1.microbiome2.C	0.0696577152832716	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.skin.nares.eluent.O.1.microbiome2.C	90990.12201.skin.nares.O.1.microbiome2.C	0.03143619757045588	human nares O	MM (2-min.)	human nares O	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.skin.forehead.R.1.microbiome2.C	90990.12201.skin.forehead.eluent.R.1.microbiome2.C	0.20034143962284526	human forehead R	MM (2-min.)	human forehead R	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.throat.B.1.1.microbiome2.C	90990.12201.oral.throat.B.2.1.microbiome2.C	0.3595625883973501	human throat B	MM (2-min.)	human throat B	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.saline.D.3.microbiome2.C	90990.12201.oral.saline.D.2.microbiome2.C	0.028413104566602572	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.D.3.microbiome2.C	90990.12201.oral.saline.D.1.microbiome2.C	0.03663370520701874	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.Q.2.microbiome2.C	90990.12201.oral.saline.Q.1.microbiome2.C	0.05221218767011473	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.Q.2.microbiome2.C	90990.12201.oral.saline.Q.3.microbiome2.C	0.06473088335081799	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.2.microbiome2.C	90990.12201.oral.saline.A.1.microbiome2.C	0.04344273587748344	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.2.microbiome2.C	90990.12201.oral.saline.A.3.microbiome2.C	0.047920320097537314	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.skin.forehead.B.1.1.microbiome2.C	90990.12201.skin.forehead.B.2.1.microbiome2.C	0.21448648083349067	human forehead B	MM (2-min.)	human forehead B	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.built.floor.C.3.microbiome2.C	90990.12201.built.floor.C.2.microbiome2.C	0.22032309369307343	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.built.floor.C.3.microbiome2.C	90990.12201.built.floor.C.1.microbiome2.C	0.24822959718289284	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.O.1.microbiome2.C	0.5613916935213186	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.P.1.microbiome2.C	0.5582435064281356	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.A.2.1.microbiome2.C	0.07866553458053391	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.R.1.microbiome2.C	0.24329412752005591	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	0.32921325869906376	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.22804921334939926	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.5378334665397317	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.oral.throat.P.1.microbiome2.C	0.0994944200365349	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.oral.throat.A.2.1.microbiome2.C	0.5923504341322942	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.oral.throat.R.1.microbiome2.C	0.7464431712359483	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	0.8599653924344265	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.4253693734590916	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.O.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.1173660364580267	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.skin.forehead.A.2.1.microbiome2.C	90990.12201.skin.forehead.fresh.A.1.1.microbiome2.C	0.06683334688222493	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.saliva.Q.1.microbiome2.C	90990.12201.oral.saliva.Q.3.microbiome2.C	0.04630506171139061	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome2.C	91743.12201.oral.human.Q.2.microbiome2.H	0.07328360498508232	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome2.C	91743.12201.oral.human.Q.1.microbiome2.H	0.06826746719190159	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome2.C	91743.12201.oral.human.Q.3.microbiome2.H	0.07698775766579866	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.throat.P.1.microbiome2.C	90990.12201.oral.throat.A.2.1.microbiome2.C	0.5879198127233276	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.P.1.microbiome2.C	90990.12201.oral.throat.R.1.microbiome2.C	0.7335209415910358	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.P.1.microbiome2.C	90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	0.849007710581323	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.P.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.38704651959394115	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.P.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.15111962162578474	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.T.1.microbiome2.C	90990.12201.skin.nares.eluent.T.1.microbiome2.C	0.06714093037804407	human nares T	MM (2-min.)	human nares T	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.vtm.A.2.microbiome2.C	90990.12201.oral.saline.vtm.A.3.microbiome2.C	0.022400745496114496	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.built.floor.D.3.microbiome2.C	90990.12201.built.floor.D.1.microbiome2.C	0.2390774839047695	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.built.floor.D.3.microbiome2.C	90990.12201.built.floor.D.2.microbiome2.C	0.2353153672514055	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.throat.A.2.1.microbiome2.C	90990.12201.oral.throat.R.1.microbiome2.C	0.23018664113755236	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.2.1.microbiome2.C	90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	0.3057297481704962	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.2.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.26364476376008983	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.A.2.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.5717243259716309	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.saline.vtm.Q.2.microbiome2.C	90990.12201.oral.saline.vtm.Q.3.microbiome2.C	0.038427430618015485	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.D.3.microbiome2.C	90990.12201.oral.saline.vtm.D.1.microbiome2.C	0.03357395110291146	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.D.3.microbiome2.C	90990.12201.oral.saline.vtm.D.2.microbiome2.C	0.13184533459549308	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saliva.A.1.microbiome2.C	90990.12201.oral.saliva.A.3.microbiome2.C	0.06176590645980945	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.microbiome2.C	91743.12201.oral.human.A.2.microbiome2.H	0.08619469146506946	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.microbiome2.C	91743.12201.oral.human.A.1.microbiome2.H	0.11604564134503137	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.microbiome2.C	91743.12201.oral.human.A.3.microbiome2.H	0.07944703980470653	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saline.Q.1.microbiome2.C	90990.12201.oral.saline.Q.3.microbiome2.C	0.06278531651951505	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.1.microbiome2.C	90990.12201.oral.saline.A.3.microbiome2.C	0.04750895695654804	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.built.floor.C.2.microbiome2.C	90990.12201.built.floor.C.1.microbiome2.C	0.2670088815451259	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.skin.nares.R.1.microbiome2.C	90990.12201.skin.nares.eluent.R.1.microbiome2.C	0.19441430894783693	human nares R	MM (2-min.)	human nares R	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.oral.throat.R.1.microbiome2.C	90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	0.2639174160592974	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.R.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.40172258933545324	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.R.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.7198365403693139	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	90990.12201.oral.throat.Q.2.1.microbiome2.C	0.5216232471018306	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.8483766554084535	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.D.2.1.microbiome2.C	90990.12201.skin.nares.D.1.1.microbiome2.C	0.5875205737069848	human nares D	MM (2-min.)	human nares D	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.D.2.microbiome2.C	90990.12201.oral.saline.D.1.microbiome2.C	0.019089790399600688	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.vtm.D.1.microbiome2.C	90990.12201.oral.saline.vtm.D.2.microbiome2.C	0.12842769985001515	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.forehead.Q.2.1.microbiome2.C	90990.12201.skin.forehead.Q.1.1.microbiome2.C	0.33317086894173176	human forehead Q	MM (2-min.)	human forehead Q	MM (2-min.)	human	human forehead	low	Low biomass
+90990.12201.built.floor.D.1.microbiome2.C	90990.12201.built.floor.D.2.microbiome2.C	0.1936034508931644	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.saliva.A.3.microbiome2.C	91743.12201.oral.human.A.2.microbiome2.H	0.06911257626808305	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome2.C	91743.12201.oral.human.A.1.microbiome2.H	0.09643612397779597	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome2.C	91743.12201.oral.human.A.3.microbiome2.H	0.05084837809276969	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.throat.Q.2.1.microbiome2.C	90990.12201.oral.throat.Q.1.1.microbiome2.C	0.4248169575025944	human throat A	MM (2-min.)	human throat A	MM (2-min.)	human	human throat	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome2.C	91743.12201.oral.human.Q.2.microbiome2.H	0.08551854760056943	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome2.C	91743.12201.oral.human.Q.1.microbiome2.H	0.08077297410827444	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome2.C	91743.12201.oral.human.Q.3.microbiome2.H	0.0849898205852607	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.microbiome2.C	90990.12201.oral.saliva.D.1.microbiome2.C	0.03066715279926291	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.microbiome2.C	91743.12201.oral.human.D.2.microbiome2.H	0.054502969366597966	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.microbiome2.C	91743.12201.oral.human.D.1.microbiome2.H	0.06269744764383071	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.skin.nares.A.2.1.microbiome2.C	90990.12201.skin.nares.A.1.1.microbiome2.C	0.07143651992140942	human nares A	MM (2-min.)	human nares A	MM (2-min.)	human	human nares	high	High biomass
+90990.12201.oral.saliva.D.1.microbiome2.C	91743.12201.oral.human.D.2.microbiome2.H	0.06788135431606591	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.1.microbiome2.C	91743.12201.oral.human.D.1.microbiome2.H	0.06633613781159085	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.wat.S.A.3.microbiome2.L	91743.12201.wat.S.A.2.microbiome2.L	0.019869888921379496	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.wat.S.A.3.microbiome2.L	91743.12201.wat.S.A.1.microbiome2.L	0.03365397086877209	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.wat.F.B.2.microbiome2.L	91743.12201.wat.F.B.1.microbiome2.L	0.04263512230582825	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.wat.F.B.2.microbiome2.L	91743.12201.wat.F.B.3.microbiome2.L	0.051061347029018433	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.skin.foot.B.1.microbiome2.L	91743.12201.skin.foot.B.2.microbiome2.L	0.013275127761924594	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.B.1.microbiome2.L	91743.12201.skin.foot.B.3.microbiome2.L	0.018181207249653917	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.uriF.S.1.microbiome2.L	91743.12201.uriF.S.2.microbiome2.L	0.012266548780905143	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.uriF.S.1.microbiome2.L	91743.12201.uriF.S.3.microbiome2.L	0.022733694655763893	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d4.1.microbiome2.L	0.0037561256782951305	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d3.1.microbiome2.L	0.0017619699119595068	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d4.2.microbiome2.L	0.004101968646359517	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d1.1.microbiome2.L	0.0020276890828578387	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d2.2.microbiome2.L	0.0015335186335550823	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.001613070295870095	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.0016700155924664062	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d2.2.microbiome2.L	0.01405262443239048	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d1.2.microbiome2.L	0.009644915071502927	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d2.1.microbiome2.L	0.0050645899100994094	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d3.2.microbiome2.L	0.05674404641342271	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d4.1.microbiome2.L	0.006231826344965491	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.05493162708951986	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.02200402889472023	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d3.1.microbiome2.L	0.003176630843400846	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d4.2.microbiome2.L	0.004349083572287928	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d1.1.microbiome2.L	0.0040459825269022675	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d2.2.microbiome2.L	0.003514348676782563	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.004135905797443197	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.003691598659762259	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.F.A.1.microbiome2.L	91743.12201.wat.F.A.2.microbiome2.L	0.05345043671844415	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.wat.F.A.1.microbiome2.L	91743.12201.wat.F.A.3.microbiome2.L	0.05473320492120152	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.skin.foot.A.2.microbiome2.L	91743.12201.skin.foot.A.1.microbiome2.L	0.20218895881774213	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.A.2.microbiome2.L	91743.12201.skin.foot.A.3.microbiome2.L	0.08722926233099401	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.uriF.P.2.microbiome2.L	91743.12201.uriF.P.1.microbiome2.L	0.022508707289387773	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.uriF.P.2.microbiome2.L	91743.12201.uriF.P.3.microbiome2.L	0.02099277663184387	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.built.floor.A.3.microbiome2.L	91743.12201.built.floor.A.2.microbiome2.L	0.20978544204874075	floor_site_1	MM (2-min.)	floor_site_1	MM (2-min.)	built environment	floor	low	Low biomass
+91743.12201.skin.armpit.A.2.microbiome2.L	91743.12201.skin.armpit.A.1.microbiome2.L	0.005889807092616303	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.A.2.microbiome2.L	91743.12201.skin.armpit.A.3.microbiome2.L	0.12845933556828837	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d1.2.microbiome2.L	0.005497833210886551	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d2.1.microbiome2.L	0.00957871457377674	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d3.2.microbiome2.L	0.042795351620376613	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d4.1.microbiome2.L	0.019164170934931803	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.0408790026571294	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.03466629690084187	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome2.L	91743.12201.bacsu.d4.2.microbiome2.L	0.004066820073290764	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome2.L	91743.12201.bacsu.d1.1.microbiome2.L	0.001774946930391389	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome2.L	91743.12201.bacsu.d2.2.microbiome2.L	0.0011195825997495081	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.0019231801435881618	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.001245286648610374	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.uriF.S.2.microbiome2.L	91743.12201.uriF.S.3.microbiome2.L	0.015482127958310974	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.built.floor.B.3.microbiome2.L	91743.12201.built.floor.B.1.microbiome2.L	0.26134670176866115	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+91743.12201.built.floor.B.3.microbiome2.L	91743.12201.built.floor.B.2.microbiome2.L	0.189747896523325	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+91743.12201.skin.foot.B.2.microbiome2.L	91743.12201.skin.foot.B.3.microbiome2.L	0.029296004250031857	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.wat.F.B.1.microbiome2.L	91743.12201.wat.F.B.3.microbiome2.L	0.02987232525028243	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.skin.foot.O.3.microbiome2.L	91743.12201.skin.foot.O.1.microbiome2.L	0.03222195246435922	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.O.3.microbiome2.L	91743.12201.skin.foot.O.2.microbiome2.L	0.03781439983038933	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.para.d1.2.microbiome2.L	91743.12201.para.d2.1.microbiome2.L	0.004865640445657688	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome2.L	91743.12201.para.d3.2.microbiome2.L	0.04818428243577699	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome2.L	91743.12201.para.d4.1.microbiome2.L	0.014463849002942739	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.04637426705880014	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.029891649439466372	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.armpit.O.3.microbiome2.L	91743.12201.skin.armpit.O.1.microbiome2.L	0.06161513164935447	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.O.3.microbiome2.L	91743.12201.skin.armpit.O.2.microbiome2.L	0.059641812425088925	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.uriF.P.1.microbiome2.L	91743.12201.uriF.P.3.microbiome2.L	0.017604676684018394	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+91743.12201.skin.foot.A.1.microbiome2.L	91743.12201.skin.foot.A.3.microbiome2.L	0.12318682604987717	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.wat.F.A.2.microbiome2.L	91743.12201.wat.F.A.3.microbiome2.L	0.05706867969843456	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+91743.12201.wat.S.B.3.microbiome2.L	91743.12201.wat.S.B.1.microbiome2.L	0.019785518774476867	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.wat.S.B.3.microbiome2.L	91743.12201.wat.S.B.2.microbiome2.L	0.02103107169000601	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.bacsu.d4.2.microbiome2.L	91743.12201.bacsu.d1.1.microbiome2.L	0.003554834166433009	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.microbiome2.L	91743.12201.bacsu.d2.2.microbiome2.L	0.003833365046731577	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.003485506893649454	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.0037860852041074044	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.armpit.A.1.microbiome2.L	91743.12201.skin.armpit.A.3.microbiome2.L	0.13200079785253896	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.para.d2.1.microbiome2.L	91743.12201.para.d3.2.microbiome2.L	0.052176389160013714	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome2.L	91743.12201.para.d4.1.microbiome2.L	0.010455936620860893	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.050363661869669535	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.026041586673763953	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome2.L	91743.12201.bacsu.d2.2.microbiome2.L	0.001373240373874706	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.001188657910648844	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.001427476427629848	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.B.1.microbiome2.L	91743.12201.wat.S.B.2.microbiome2.L	0.01168168525930462	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.para.d3.2.microbiome2.L	91743.12201.para.d4.1.microbiome2.L	0.06170014654892126	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.002278877919468999	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.07704768129747688	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.foot.O.1.microbiome2.L	91743.12201.skin.foot.O.2.microbiome2.L	0.013266310704830808	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+91743.12201.skin.armpit.O.1.microbiome2.L	91743.12201.skin.armpit.O.2.microbiome2.L	0.03125861331000009	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+91743.12201.bacsu.d2.2.microbiome2.L	91743.12201.bacsu.d1.2.microbiome2.L	0.0011942750491308316	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.2.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.0006221720342197652	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.A.2.microbiome2.L	91743.12201.wat.S.A.1.microbiome2.L	0.03003701993768777	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+91743.12201.built.floor.B.1.microbiome2.L	91743.12201.built.floor.B.2.microbiome2.L	0.1656852637457466	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+91743.12201.para.d4.1.microbiome2.L	91743.12201.para.d3.1.microbiome2.L	0.059807040393792726	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.1.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.018404049684951608	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.microbiome2.L	91743.12201.bacsu.d2.1.microbiome2.L	0.0013427886434202387	one Gram-positive strain	MM (2-min.)	one Gram-positive strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.1.microbiome2.L	91743.12201.para.d4.2.microbiome2.L	0.07533421954357694	one Gram-negative strain	MM (2-min.)	one Gram-negative strain	MM (2-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.soil.bare.N.3.microbiome2.H	91743.12201.soil.bare.slurry.N.3.microbiome2.H	0.15953341367215892	bare soil site 2	MM (2-min.)	bare soil site 2	MM (2-min.)	soil	bare soil	high	High biomass
+91743.12201.soil.bare.N.3.microbiome2.H	91743.12201.soil.bare.slurry.N.2.microbiome2.H	0.17269571905138528	bare soil site 2	MM (2-min.)	bare soil site 2	MM (2-min.)	soil	bare soil	high	High biomass
+91743.12201.stool.cat.P.3.microbiome2.H	91743.12201.stool.cat.P.2.microbiome2.H	0.25068008866565966	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.stool.cat.P.3.microbiome2.H	91743.12201.stool.cat.P.1.microbiome2.H	0.13542435707551023	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.oral.human.R.1.microbiome2.H	91743.12201.oral.human.R.2.microbiome2.H	0.03868498833202255	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.R.1.microbiome2.H	91743.12201.oral.human.R.3.microbiome2.H	0.04859528378682282	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.soil.rhizosphere.J.1.microbiome2.H	91743.12201.soil.rhizosphere.J.3.microbiome2.H	0.23771395921915872	rhizosphere soil site 1	MM (2-min.)	rhizosphere soil site 1	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.stool.human.A.1.2.microbiome2.H	91743.12201.stool.human.fresh.A.1.3.microbiome2.H	0.6483407547019857	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.2.microbiome2.H	91743.12201.stool.human.A.1.3.microbiome2.H	0.06481444921885902	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.2.microbiome2.H	91743.12201.stool.human.fresh.A.1.2.microbiome2.H	0.6384849602341991	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+91743.12201.oral.human.B.1.microbiome2.H	91743.12201.oral.human.B.2.microbiome2.H	0.04471889686279341	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.B.1.microbiome2.H	91743.12201.oral.human.B.3.microbiome2.H	0.07767044529255115	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.soil.bare.slurry.N.3.microbiome2.H	91743.12201.soil.bare.slurry.N.2.microbiome2.H	0.11712402297969655	bare soil site 2	MM (2-min.)	bare soil site 2	MM (2-min.)	soil	bare soil	high	High biomass
+91743.12201.oral.human.Q.2.microbiome2.H	91743.12201.oral.human.Q.1.microbiome2.H	0.09720469620311946	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.Q.2.microbiome2.H	91743.12201.oral.human.Q.3.microbiome2.H	0.01876350485763036	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.food.yogurt.4.3.microbiome2.H	91743.12201.food.yogurt.4.2.microbiome2.H	0.1306932038975345	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+91743.12201.food.yogurt.4.3.microbiome2.H	91743.12201.food.yogurt.4.1.microbiome2.H	0.13130640677874225	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+91743.12201.oral.human.T.3.microbiome2.H	91743.12201.oral.human.T.2.microbiome2.H	0.025808287056962195	human.saliva.T	MM (2-min.)	human.saliva.T	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.bacsu.para.d3.microbiome2.H	91743.12201.bacsu.para.d2.microbiome2.H	0.04575034341409174	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	cultured cells	two strains	variable	Variable biomass
+91743.12201.bacsu.para.d3.microbiome2.H	91743.12201.bacsu.para.d1.microbiome2.H	0.05383855507754873	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	cultured cells	two strains	variable	Variable biomass
+91743.12201.oral.human.P.3.microbiome2.H	91743.12201.oral.human.P.2.microbiome2.H	0.06997606211989524	human.saliva.P	MM (2-min.)	human.saliva.P	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.A.2.microbiome2.H	91743.12201.oral.human.A.1.microbiome2.H	0.039427988974427904	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.A.2.microbiome2.H	91743.12201.oral.human.A.3.microbiome2.H	0.0360865495892186	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.R.2.microbiome2.H	91743.12201.oral.human.R.3.microbiome2.H	0.04228912146649049	human.saliva.R	MM (2-min.)	human.saliva.R	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.food.yogurt.3.3.microbiome2.H	91743.12201.food.yogurt.3.1.microbiome2.H	0.00570310805043197	Yoplait strawberry	MM (2-min.)	Yoplait strawberry	MM (2-min.)	food	yogurt	high	High biomass
+91743.12201.oral.human.O.3.microbiome2.H	91743.12201.oral.human.O.1.microbiome2.H	0.07102058243850372	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.O.3.microbiome2.H	91743.12201.oral.human.O.2.microbiome2.H	0.03039669649462201	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.food.sourkraut.2.3.microbiome2.H	91743.12201.food.sourkraut.2.1.microbiome2.H	0.034756905317260674	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+91743.12201.food.sourkraut.2.3.microbiome2.H	91743.12201.food.sourkraut.2.2.microbiome2.H	0.008788584025753965	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+91743.12201.oral.human.B.2.microbiome2.H	91743.12201.oral.human.B.3.microbiome2.H	0.064586946391495	human.saliva.B	MM (2-min.)	human.saliva.B	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.S.3.microbiome2.H	91743.12201.oral.human.S.1.microbiome2.H	0.04797183048496316	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.oral.human.S.3.microbiome2.H	91743.12201.oral.human.S.2.microbiome2.H	0.06751458491457064	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.3.microbiome2.H	91743.12201.soil.rhizosphere.K.3.microbiome2.H	0.13888726277897512	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.3.microbiome2.H	91743.12201.soil.rhizosphere.slurry.K.1.microbiome2.H	0.03567330859424124	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.3.microbiome2.H	91743.12201.soil.rhizosphere.slurry.K.2.microbiome2.H	0.027517101904521817	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.microbiome2.H	91743.12201.soil.rhizosphere.slurry.K.1.microbiome2.H	0.15688589595564148	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.microbiome2.H	91743.12201.soil.rhizosphere.slurry.K.2.microbiome2.H	0.13188231307825102	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.oral.human.Q.1.microbiome2.H	91743.12201.oral.human.Q.3.microbiome2.H	0.10720146915737934	human.saliva.Q	MM (2-min.)	human.saliva.Q	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.stool.cat.O.3.microbiome2.H	91743.12201.stool.cat.O.1.microbiome2.H	0.11235014384477969	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.stool.cat.O.3.microbiome2.H	91743.12201.stool.cat.O.2.microbiome2.H	0.12891192980817825	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.oral.human.A.1.microbiome2.H	91743.12201.oral.human.A.3.microbiome2.H	0.05722606702692594	human.saliva.A	MM (2-min.)	human.saliva.A	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.stool.human.fresh.A.1.3.microbiome2.H	91743.12201.stool.human.A.1.3.microbiome2.H	0.6330327793150208	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.3.microbiome2.H	91743.12201.stool.human.fresh.A.1.2.microbiome2.H	0.03948014516908093	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+91743.12201.stool.cat.O.1.microbiome2.H	91743.12201.stool.cat.O.2.microbiome2.H	0.03966948567875534	cat.feces.O	MM (2-min.)	cat.feces.O	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.bacsu.para.d2.microbiome2.H	91743.12201.bacsu.para.d1.microbiome2.H	0.008305152457946743	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	one Gram-positive strain and one Gram-negative strain	MM (2-min.)	cultured cells	two strains	variable	Variable biomass
+91743.12201.oral.human.D.2.microbiome2.H	91743.12201.oral.human.D.1.microbiome2.H	0.028782393872422124	human.saliva.D	MM (2-min.)	human.saliva.D	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.food.yogurt.4.2.microbiome2.H	91743.12201.food.yogurt.4.1.microbiome2.H	0.004273946932588952	Yoplait mango	MM (2-min.)	Yoplait mango	MM (2-min.)	food	yogurt	high	High biomass
+91743.12201.food.sourkraut.2.1.microbiome2.H	91743.12201.food.sourkraut.2.2.microbiome2.H	0.03351407593073904	sourkraut gnar gnar	MM (2-min.)	sourkraut gnar gnar	MM (2-min.)	food	sourkraut	high	High biomass
+91743.12201.oral.human.S.1.microbiome2.H	91743.12201.oral.human.S.2.microbiome2.H	0.050933399057031724	human.saliva.S	MM (2-min.)	human.saliva.S	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.1.microbiome2.H	91743.12201.soil.rhizosphere.slurry.K.2.microbiome2.H	0.041529435289834486	rhizosphere soil site 2	MM (2-min.)	rhizosphere soil site 2	MM (2-min.)	soil	rhizosphere soil	high	High biomass
+91743.12201.stool.cat.P.2.microbiome2.H	91743.12201.stool.cat.P.1.microbiome2.H	0.35053912976809	cat.feces.P	MM (2-min.)	cat.feces.P	MM (2-min.)	cat	cat feces	high	High biomass
+91743.12201.oral.human.O.1.microbiome2.H	91743.12201.oral.human.O.2.microbiome2.H	0.06907454858943836	human.saliva.O	MM (2-min.)	human.saliva.O	MM (2-min.)	human	human saliva	high	High biomass
+91743.12201.stool.human.A.1.3.microbiome2.H	91743.12201.stool.human.fresh.A.1.2.microbiome2.H	0.6225243888601716	human.feces.A	MM (2-min.)	human.feces.A	MM (2-min.)	human	human feces	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome20.C	90990.12201.oral.saliva.A.3.microbiome20.C	0.02851324444027841	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome20.C	90990.12201.oral.saliva.A.1.microbiome20.C	0.043390147868244584	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome20.C	90990.12201.oral.human.A.3.microbiome20.H	0.055404564329780505	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome20.C	90990.12201.oral.human.A.2.microbiome20.H	0.04466403163440567	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.microbiome20.C	90990.12201.oral.human.A.1.microbiome20.H	0.05469913259195543	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.throat.B.3.2.microbiome20.C	90990.12201.oral.throat.B.3.1.microbiome20.C	0.5123185982293146	human throat B	MM (20-min.)	human throat B	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.2.microbiome20.C	90990.12201.oral.throat.W.microbiome20.C	0.5256931031391854	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.2.microbiome20.C	90990.12201.oral.throat.A.3.1.microbiome20.C	0.0889848619802464	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.2.microbiome20.C	90990.12201.oral.throat.A.3.2.microbiome20.C	0.08426401290839979	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.P.2.microbiome20.C	90990.12201.skin.nares.eluent.P.2.microbiome20.C	0.20921582864056265	human nares P	MM (20-min.)	human nares P	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.vtm.Q.2.microbiome20.C	90990.12201.oral.saline.vtm.Q.3.microbiome20.C	0.02353971823011637	human.saline.rinse.VTM.Q	MM (20-min.)	human.saline.rinse.VTM.Q	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.Q.2.microbiome20.C	90990.12201.oral.saline.vtm.Q.1.microbiome20.C	0.022965526674321366	human.saline.rinse.VTM.Q	MM (20-min.)	human.saline.rinse.VTM.Q	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saliva.D.3.microbiome20.C	90990.12201.oral.saliva.D.2.microbiome20.C	0.047670520287775645	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome20.C	90990.12201.oral.saliva.D.1.microbiome20.C	0.05412994214961037	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome20.C	90990.12201.oral.human.D.2.microbiome20.H	0.09998673662453647	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.microbiome20.C	90990.12201.oral.human.D.1.microbiome20.H	0.10934831497374614	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.skin.forehead.D.3.1.microbiome20.C	90990.12201.skin.forehead.D.3.2.microbiome20.C	0.1078462032294789	human forehead D	MM (20-min.)	human forehead D	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.built.floor.C.1.microbiome20.C	90990.12201.built.floor.C.3.microbiome20.C	0.16468795088849997	floor_site_3	MM (20-min.)	floor_site_3	MM (20-min.)	built environment	floor	low	Low biomass
+90990.12201.built.floor.C.1.microbiome20.C	90990.12201.built.floor.C.2.microbiome20.C	0.23026280083579692	floor_site_3	MM (20-min.)	floor_site_3	MM (20-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.saline.vtm.D.1.microbiome20.C	90990.12201.oral.saline.vtm.D.3.microbiome20.C	0.07348572348048024	human.saline.rinse.VTM.D	MM (20-min.)	human.saline.rinse.VTM.D	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.forehead.A.3.1.microbiome20.C	90990.12201.skin.forehead.A.3.2.microbiome20.C	0.007628667066230708	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.skin.forehead.A.3.1.microbiome20.C	90990.12201.skin.forehead.fresh.A.2.microbiome20.C	0.08452936111851879	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.saline.Q.3.microbiome20.C	90990.12201.oral.saline.Q.2.microbiome20.C	0.04040279314319362	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.Q.3.microbiome20.C	90990.12201.oral.saline.Q.1.microbiome20.C	0.04114799997293791	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.skin.nares.R.2.microbiome20.C	90990.12201.skin.nares.eluent.R.2.microbiome20.C	0.07927914888315116	human nares R	MM (20-min.)	human nares R	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.throat.eluent.U.microbiome20.C	90990.12201.oral.throat.U.microbiome20.C	0.22403594073866914	human throat U	MM (20-min.)	human throat U	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.oral.saline.A.1.microbiome20.C	90990.12201.oral.saline.A.3.microbiome20.C	0.021129100261944502	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.1.microbiome20.C	90990.12201.oral.saline.A.2.microbiome20.C	0.033802607793933986	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.throat.W.microbiome20.C	90990.12201.oral.throat.A.3.1.microbiome20.C	0.4675785305626244	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.oral.throat.W.microbiome20.C	90990.12201.oral.throat.A.3.2.microbiome20.C	0.4598855079013222	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.forehead.Q.3.1.microbiome20.C	90990.12201.skin.forehead.Q.3.2.microbiome20.C	0.3163418061257696	human forehead Q	MM (20-min.)	human forehead Q	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.throat.eluent.S.microbiome20.C	90990.12201.oral.throat.S.microbiome20.C	0.32721857943162797	human throat S	MM (20-min.)	human throat S	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.A.2.2.microbiome20.C	90990.12201.skin.nares.A.1.2.microbiome20.C	0.062433569025990905	human nares A	MM (20-min.)	human nares A	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.skin.nares.A.2.2.microbiome20.C	90990.12201.skin.nares.fresh.A.2.microbiome20.C	0.15612436722033735	human nares A	MM (20-min.)	human nares A	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.throat.Q.3.1.microbiome20.C	90990.12201.oral.throat.Q.3.2.microbiome20.C	0.034593126314386644	human throat Q	MM (20-min.)	human throat Q	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome20.C	90990.12201.oral.saliva.A.1.microbiome20.C	0.04204157126362142	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome20.C	90990.12201.oral.human.A.3.microbiome20.H	0.03541794659228122	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome20.C	90990.12201.oral.human.A.2.microbiome20.H	0.042075020619145496	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.microbiome20.C	90990.12201.oral.human.A.1.microbiome20.H	0.06796123777561405	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.skin.nares.D.1.2.microbiome20.C	90990.12201.skin.nares.D.2.2.microbiome20.C	0.3847581636221562	human nares D	MM (20-min.)	human nares D	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.vtm.A.1.microbiome20.C	90990.12201.oral.saline.vtm.A.2.microbiome20.C	0.024162503659203628	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.A.1.microbiome20.C	90990.12201.oral.saline.vtm.A.3.microbiome20.C	0.0405432908874032	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saliva.D.2.microbiome20.C	90990.12201.oral.saliva.D.1.microbiome20.C	0.02294792803186825	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.microbiome20.C	90990.12201.oral.human.D.2.microbiome20.H	0.06273271242930403	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.microbiome20.C	90990.12201.oral.human.D.1.microbiome20.H	0.06802738545928416	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.skin.forehead.eluent.U.microbiome20.C	90990.12201.skin.forehead.U.microbiome20.C	0.1285819998044036	human forehead U	MM (20-min.)	human forehead U	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.saline.vtm.Q.3.microbiome20.C	90990.12201.oral.saline.vtm.Q.1.microbiome20.C	0.025813134892799856	human.saline.rinse.VTM.Q	MM (20-min.)	human.saline.rinse.VTM.Q	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.throat.A.3.1.microbiome20.C	90990.12201.oral.throat.A.3.2.microbiome20.C	0.03704991002971266	human throat A	MM (20-min.)	human throat A	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.Q.2.2.microbiome20.C	90990.12201.skin.nares.Q.1.2.microbiome20.C	0.06564526634746164	human nares Q	MM (20-min.)	human nares Q	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome20.C	90990.12201.oral.saliva.Q.2.microbiome20.C	0.023083394859314158	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome20.C	90990.12201.oral.saliva.Q.3.microbiome20.C	0.03276208542749842	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome20.C	90990.12201.oral.human.Q.1.microbiome20.H	0.04534064330541431	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome20.C	90990.12201.oral.human.Q.3.microbiome20.H	0.05542528685067137	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.microbiome20.C	90990.12201.oral.human.Q.2.microbiome20.H	0.06883762870168687	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saline.D.1.microbiome20.C	90990.12201.oral.saline.D.2.microbiome20.C	0.043780614984414656	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.D.1.microbiome20.C	90990.12201.oral.saline.D.3.microbiome20.C	0.027006516567815102	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.skin.nares.O.2.microbiome20.C	90990.12201.skin.nares.eluent.O.2.microbiome20.C	0.0883134366341391	human nares O	MM (20-min.)	human nares O	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.built.floor.D.1.microbiome20.C	90990.12201.built.floor.D.3.microbiome20.C	0.5774509219759343	floor_site_4	MM (20-min.)	floor_site_4	MM (20-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.saline.Q.2.microbiome20.C	90990.12201.oral.saline.Q.1.microbiome20.C	0.02511152069263506	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.throat.D.3.1.microbiome20.C	90990.12201.oral.throat.D.3.2.microbiome20.C	0.13128563534801502	human throat D	MM (20-min.)	human throat D	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.forehead.B.3.2.microbiome20.C	90990.12201.skin.forehead.B.3.1.microbiome20.C	0.588964092571036	human forehead B	MM (20-min.)	human forehead B	MM (20-min.)	human	human forehead	low	Low biomass
+90990.12201.oral.throat.V.microbiome20.C	90990.12201.oral.throat.eluent.V.microbiome20.C	0.20812363873492773	human throat V	MM (20-min.)	human throat V	MM (20-min.)	human	human throat	high	High biomass
+90990.12201.skin.nares.A.1.2.microbiome20.C	90990.12201.skin.nares.fresh.A.2.microbiome20.C	0.20612564605130848	human nares A	MM (20-min.)	human nares A	MM (20-min.)	human	human nares	high	High biomass
+90990.12201.oral.saline.vtm.A.2.microbiome20.C	90990.12201.oral.saline.vtm.A.3.microbiome20.C	0.02704897567965952	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.built.floor.C.3.microbiome20.C	90990.12201.built.floor.C.2.microbiome20.C	0.2355317378514732	floor_site_3	MM (20-min.)	floor_site_3	MM (20-min.)	built environment	floor	low	Low biomass
+90990.12201.oral.saliva.Q.2.microbiome20.C	90990.12201.oral.saliva.Q.3.microbiome20.C	0.030308350585318323	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome20.C	90990.12201.oral.human.Q.1.microbiome20.H	0.05515468546902844	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome20.C	90990.12201.oral.human.Q.3.microbiome20.H	0.05232407515916622	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.microbiome20.C	90990.12201.oral.human.Q.2.microbiome20.H	0.07886018635651378	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.1.microbiome20.C	90990.12201.oral.human.D.2.microbiome20.H	0.061406986814729225	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.1.microbiome20.C	90990.12201.oral.human.D.1.microbiome20.H	0.06562686979492681	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saline.D.2.microbiome20.C	90990.12201.oral.saline.D.3.microbiome20.C	0.022639013543035165	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.3.microbiome20.C	90990.12201.oral.saline.A.2.microbiome20.C	0.02662496411286879	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saliva.A.1.microbiome20.C	90990.12201.oral.human.A.3.microbiome20.H	0.06684439593290536	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.microbiome20.C	90990.12201.oral.human.A.2.microbiome20.H	0.05410937942574956	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.microbiome20.C	90990.12201.oral.human.A.1.microbiome20.H	0.08993206607862729	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome20.C	90990.12201.oral.human.Q.1.microbiome20.H	0.06806420267840321	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome20.C	90990.12201.oral.human.Q.3.microbiome20.H	0.05812804770276405	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.microbiome20.C	90990.12201.oral.human.Q.2.microbiome20.H	0.09407656627517359	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.skin.forehead.A.3.2.microbiome20.C	90990.12201.skin.forehead.fresh.A.2.microbiome20.C	0.08681953786045947	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+91743.12201.wat.S.A.2.microbiome20.L	91743.12201.wat.S.A.3.microbiome20.L	0.021471749470635265	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.wat.S.A.2.microbiome20.L	91743.12201.wat.S.A.1.microbiome20.L	0.02635546954937097	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.skin.foot.B.1.microbiome20.L	91743.12201.skin.foot.B.3.microbiome20.L	0.03625600684047007	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.B.1.microbiome20.L	91743.12201.skin.foot.B.2.microbiome20.L	0.030255238706549833	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.O.2.microbiome20.L	91743.12201.skin.foot.O.3.microbiome20.L	0.0612531356877163	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.O.2.microbiome20.L	91743.12201.skin.foot.O.1.microbiome20.L	0.012434827795159588	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.wat.F.B.2.microbiome20.L	91743.12201.wat.F.B.3.microbiome20.L	0.03689396904087171	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.wat.F.B.2.microbiome20.L	91743.12201.wat.F.B.1.microbiome20.L	0.03963594670421548	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.skin.armpit.A.1.microbiome20.L	91743.12201.skin.armpit.A.3.microbiome20.L	0.02475674251958143	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.A.1.microbiome20.L	91743.12201.skin.armpit.A.2.microbiome20.L	0.022307163584187033	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.built.floor.B.2.microbiome20.L	91743.12201.built.floor.B.3.microbiome20.L	0.1671393602313297	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+91743.12201.built.floor.B.2.microbiome20.L	91743.12201.built.floor.B.1.microbiome20.L	0.17974325130902416	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d5.1.microbiome20.L	0.03058444506582652	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d2.1.microbiome20.L	0.002313172996195017	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d3.1.microbiome20.L	0.0028377090768630215	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d1.1.microbiome20.L	0.0027029266970809308	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d2.2.microbiome20.L	0.0019865098685425938	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.0023528754312135305	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.003318705268779753	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.020409010832044737	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.F.A.2.microbiome20.L	91743.12201.wat.F.A.3.microbiome20.L	0.06087011555446941	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.wat.F.A.2.microbiome20.L	91743.12201.wat.F.A.1.microbiome20.L	0.05302278722634655	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d4.2.microbiome20.L	0.034423631016928156	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d3.2.microbiome20.L	0.048128495091196814	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d2.2.microbiome20.L	0.03056955967578705	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d1.2.microbiome20.L	0.030269703442296444	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d3.1.microbiome20.L	0.03830700316238655	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.030747597507134832	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.030389550997283188	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.042734709493759286	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.026837901565954198	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d2.1.microbiome20.L	0.031311792628456125	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d3.1.microbiome20.L	0.031093518598319075	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d1.1.microbiome20.L	0.03114217976324985	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d2.2.microbiome20.L	0.031177971408669927	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.03078615994109519	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.03009005807229244	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.1.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.021249717909947268	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.B.2.microbiome20.L	91743.12201.wat.S.B.3.microbiome20.L	0.02057486458729729	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.wat.S.B.2.microbiome20.L	91743.12201.wat.S.B.1.microbiome20.L	0.017420608131610994	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d3.2.microbiome20.L	0.0522271623671834	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d2.2.microbiome20.L	0.017623015790411034	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d1.2.microbiome20.L	0.019532372419613045	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d3.1.microbiome20.L	0.04238204614192988	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.015217022011640203	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.01640152853604106	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.03767330362073385	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.013987505857144106	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.armpit.O.2.microbiome20.L	91743.12201.skin.armpit.O.3.microbiome20.L	0.011716424490976114	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.O.2.microbiome20.L	91743.12201.skin.armpit.O.1.microbiome20.L	0.07927599595516949	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.uriF.D.3.microbiome20.L	91743.12201.uriF.D.1.microbiome20.L	0.1428377041855401	human.urine.D	MM (20-min.)	human.urine.D	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.skin.foot.A.1.microbiome20.L	91743.12201.skin.foot.A.3.microbiome20.L	0.11140094846371153	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.skin.foot.A.1.microbiome20.L	91743.12201.skin.foot.A.2.microbiome20.L	0.11838383763283343	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d3.1.microbiome20.L	0.001451465524875006	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d1.1.microbiome20.L	0.0013740672172829237	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d2.2.microbiome20.L	0.0008434887272570614	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.001354273615573743	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.0025865607950004937	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.021060295985748392	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d2.2.microbiome20.L	0.035762702370710484	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d1.2.microbiome20.L	0.033453342041346694	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d3.1.microbiome20.L	0.010687230476250436	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.03858236890622241	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.037278803628468526	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.07215347621344122	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.04260178981168207	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.A.3.microbiome20.L	91743.12201.wat.S.A.1.microbiome20.L	0.03249994587364297	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.bacsu.d3.1.microbiome20.L	91743.12201.bacsu.d1.1.microbiome20.L	0.000671222997310551	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome20.L	91743.12201.bacsu.d2.2.microbiome20.L	0.0017180879276785998	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.0018484230685244872	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.0034018741478788637	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.02140585443764977	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.F.B.3.microbiome20.L	91743.12201.wat.F.B.1.microbiome20.L	0.028072731673501855	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.uriF.S.1.microbiome20.L	91743.12201.uriF.S.2.microbiome20.L	0.01095198387972434	human.urine.S	MM (20-min.)	human.urine.S	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.uriF.S.1.microbiome20.L	91743.12201.uriF.S.3.microbiome20.L	0.010249507203358864	human.urine.S	MM (20-min.)	human.urine.S	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.skin.foot.O.3.microbiome20.L	91743.12201.skin.foot.O.1.microbiome20.L	0.06274769769610641	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d1.2.microbiome20.L	0.003228189663169783	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d3.1.microbiome20.L	0.025871039047255722	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.0031033927105443638	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.0023213437313835254	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.043270833825667425	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.007762651007825453	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.built.floor.B.3.microbiome20.L	91743.12201.built.floor.B.1.microbiome20.L	0.1649416469771636	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+91743.12201.wat.F.A.3.microbiome20.L	91743.12201.wat.F.A.1.microbiome20.L	0.06403284153744622	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+91743.12201.uriF.P.1.microbiome20.L	91743.12201.uriF.P.2.microbiome20.L	0.005786064099698022	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.uriF.P.1.microbiome20.L	91743.12201.uriF.P.3.microbiome20.L	0.01231029554850975	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.para.d1.2.microbiome20.L	91743.12201.para.d3.1.microbiome20.L	0.023318887225213712	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.005929269039311385	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.004036208623072687	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.04425968213581721	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.2.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.009853514863266681	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.built.floor.A.3.microbiome20.L	91743.12201.built.floor.A.1.microbiome20.L	0.20393473853423322	floor_site_1	MM (20-min.)	floor_site_1	MM (20-min.)	built environment	floor	low	Low biomass
+91743.12201.bacsu.d1.1.microbiome20.L	91743.12201.bacsu.d2.2.microbiome20.L	0.0015596907094302262	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.0016900258502761131	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.00341686443177696	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.021159133222472114	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.B.3.microbiome20.L	91743.12201.wat.S.B.1.microbiome20.L	0.01578253038987137	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+91743.12201.skin.armpit.O.3.microbiome20.L	91743.12201.skin.armpit.O.1.microbiome20.L	0.07886913367613739	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.skin.foot.B.3.microbiome20.L	91743.12201.skin.foot.B.2.microbiome20.L	0.011190180393646984	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.para.d3.1.microbiome20.L	91743.12201.para.d2.1.microbiome20.L	0.028687018138361442	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.1.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.027277474753774508	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.1.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.0625007681309728	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.1.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.03230940505414719	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.2.microbiome20.L	91743.12201.bacsu.d1.2.microbiome20.L	0.0009258862774318407	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.2.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.002918671089660463	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.2.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.020716062367788408	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome20.L	91743.12201.para.d1.1.microbiome20.L	0.0035068227486078365	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.042149238100787356	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.0056705026236582015	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.uriF.S.2.microbiome20.L	91743.12201.uriF.S.3.microbiome20.L	0.008682854919260356	human.urine.S	MM (20-min.)	human.urine.S	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.skin.armpit.A.3.microbiome20.L	91743.12201.skin.armpit.A.2.microbiome20.L	0.014983071282729235	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+91743.12201.para.d1.1.microbiome20.L	91743.12201.para.d5.1.microbiome20.L	0.04247559699419733	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.0071473616802326875	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.uriF.P.2.microbiome20.L	91743.12201.uriF.P.3.microbiome20.L	0.009801897728371608	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+91743.12201.skin.foot.A.3.microbiome20.L	91743.12201.skin.foot.A.2.microbiome20.L	0.010285399710255248	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+91743.12201.bacsu.d1.2.microbiome20.L	91743.12201.bacsu.d4.2.microbiome20.L	0.003039253140352723	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.020579296818155717	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.microbiome20.L	91743.12201.para.d4.1.microbiome20.L	0.03950255808834536	one Gram-negative strain	MM (20-min.)	one Gram-negative strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.microbiome20.L	91743.12201.bacsu.d5.2.microbiome20.L	0.02028500093541556	one Gram-positive strain	MM (20-min.)	one Gram-positive strain	MM (20-min.)	cultured cells	single strain	variable	Variable biomass
+90990.12201.oral.human.A.3.microbiome20.H	90990.12201.oral.human.A.2.microbiome20.H	0.03691606224973897	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.A.3.microbiome20.H	90990.12201.oral.human.A.1.microbiome20.H	0.0691147505650395	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.P.1.microbiome20.H	90990.12201.oral.human.P.3.microbiome20.H	0.0313371863631689	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.P.1.microbiome20.H	90990.12201.oral.human.P.2.microbiome20.H	0.08529721680653218	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.human.fresh.A.1.3.microbiome20.H	90990.12201.stool.human.A.1.3.microbiome20.H	0.4282145947265556	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.3.microbiome20.H	90990.12201.stool.human.fresh.A.1.2.microbiome20.H	0.12646398011653126	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.3.microbiome20.H	90990.12201.stool.human.A.1.2.microbiome20.H	0.4378730191174733	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.3.microbiome20.H	90990.12201.stool.human.fresh.A.1.1.microbiome20.H	0.037119019732680454	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.3.microbiome20.H	90990.12201.stool.human.A.1.1.microbiome20.H	0.4040792409280614	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.oral.human.D.2.microbiome20.H	90990.12201.oral.human.D.1.microbiome20.H	0.029920081835692214	human.saliva.D	MM (20-min.)	human.saliva.D	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.soil.rhizosphere.slurry.K.1.microbiome20.H	90990.12201.soil.rhizosphere.slurry.K.3.microbiome20.H	0.04296549099882984	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+90990.12201.soil.rhizosphere.slurry.K.1.microbiome20.H	90990.12201.soil.rhizosphere.slurry.K.2.microbiome20.H	0.052264027048549766	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+90990.12201.oral.human.Q.1.microbiome20.H	90990.12201.oral.human.Q.3.microbiome20.H	0.0633227062834671	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.Q.1.microbiome20.H	90990.12201.oral.human.Q.2.microbiome20.H	0.03980904753344006	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.cat.P.2.microbiome20.H	90990.12201.stool.cat.P.3.microbiome20.H	0.11739705352726293	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+90990.12201.stool.cat.P.2.microbiome20.H	90990.12201.stool.cat.P.1.microbiome20.H	0.33388362023098245	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+90990.12201.food.yogurt.3.3.microbiome20.H	90990.12201.food.yogurt.3.1.microbiome20.H	0.02115490174348846	Yoplait strawberry	MM (20-min.)	Yoplait strawberry	MM (20-min.)	food	yogurt	high	High biomass
+90990.12201.food.sourkraut.1.2.microbiome20.H	90990.12201.food.sourkraut.1.3.microbiome20.H	0.006900207784183506	sourkraut classic caraway	MM (20-min.)	sourkraut classic caraway	MM (20-min.)	food	sourkraut	high	High biomass
+90990.12201.bacsu.para.d3.microbiome20.H	90990.12201.bacsu.para.d2.microbiome20.H	0.03866251982496116	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	cultured cells	two strains	variable	Variable biomass
+90990.12201.bacsu.para.d3.microbiome20.H	90990.12201.bacsu.para.d1.microbiome20.H	0.04359376583584172	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	cultured cells	two strains	variable	Variable biomass
+90990.12201.stool.human.B.2.microbiome20.H	90990.12201.stool.human.B.3.microbiome20.H	0.08965502985989485	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.B.2.microbiome20.H	90990.12201.stool.human.B.1.microbiome20.H	0.09066347095666584	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.food.yogurt.4.2.microbiome20.H	90990.12201.food.yogurt.4.3.microbiome20.H	0.03371660227715935	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+90990.12201.food.yogurt.4.2.microbiome20.H	90990.12201.food.yogurt.4.1.microbiome20.H	0.013279960790409426	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+90990.12201.oral.human.R.1.microbiome20.H	90990.12201.oral.human.R.3.microbiome20.H	0.052154149352439436	human.saliva.R	MM (20-min.)	human.saliva.R	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.R.1.microbiome20.H	90990.12201.oral.human.R.2.microbiome20.H	0.06532640025316515	human.saliva.R	MM (20-min.)	human.saliva.R	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.food.sourkraut.2.2.microbiome20.H	90990.12201.food.sourkraut.2.3.microbiome20.H	0.008054211448080825	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+90990.12201.food.sourkraut.2.2.microbiome20.H	90990.12201.food.sourkraut.2.1.microbiome20.H	0.011330379114241593	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+90990.12201.oral.human.B.3.microbiome20.H	90990.12201.oral.human.B.2.microbiome20.H	0.018667456055626502	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.B.3.microbiome20.H	90990.12201.oral.human.B.1.microbiome20.H	0.01902501291186845	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.S.1.microbiome20.H	90990.12201.oral.human.S.3.microbiome20.H	0.03620953054222574	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.S.1.microbiome20.H	90990.12201.oral.human.S.2.microbiome20.H	0.03001438190676415	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.human.A.1.3.microbiome20.H	90990.12201.stool.human.fresh.A.1.2.microbiome20.H	0.31225403298240884	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.A.1.3.microbiome20.H	90990.12201.stool.human.A.1.2.microbiome20.H	0.036109780172766885	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.A.1.3.microbiome20.H	90990.12201.stool.human.fresh.A.1.1.microbiome20.H	0.40419982131640103	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.A.1.3.microbiome20.H	90990.12201.stool.human.A.1.1.microbiome20.H	0.05749578714711386	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.cat.O.3.microbiome20.H	90990.12201.stool.cat.O.1.microbiome20.H	0.4848755937686906	cat.feces.O	MM (20-min.)	cat.feces.O	MM (20-min.)	cat	cat feces	high	High biomass
+90990.12201.oral.human.A.2.microbiome20.H	90990.12201.oral.human.A.1.microbiome20.H	0.06903987762787261	human.saliva.A	MM (20-min.)	human.saliva.A	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.human.fresh.A.1.2.microbiome20.H	90990.12201.stool.human.A.1.2.microbiome20.H	0.3182609983275915	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.2.microbiome20.H	90990.12201.stool.human.fresh.A.1.1.microbiome20.H	0.10896503662179867	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.fresh.A.1.2.microbiome20.H	90990.12201.stool.human.A.1.1.microbiome20.H	0.283513954478996	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.oral.human.T.1.microbiome20.H	90990.12201.oral.human.T.2.microbiome20.H	0.04548237296163986	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.T.1.microbiome20.H	90990.12201.oral.human.T.3.microbiome20.H	0.019572250996186678	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.cat.P.3.microbiome20.H	90990.12201.stool.cat.P.1.microbiome20.H	0.37107860639674123	cat.feces.P	MM (20-min.)	cat.feces.P	MM (20-min.)	cat	cat feces	high	High biomass
+90990.12201.stool.human.B.3.microbiome20.H	90990.12201.stool.human.B.1.microbiome20.H	0.04487253630941491	human.feces.B	MM (20-min.)	human.feces.B	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.bacsu.para.d2.microbiome20.H	90990.12201.bacsu.para.d1.microbiome20.H	0.019865516327398407	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	one Gram-positive strain and one Gram-negative strain	MM (20-min.)	cultured cells	two strains	variable	Variable biomass
+90990.12201.food.sourkraut.2.3.microbiome20.H	90990.12201.food.sourkraut.2.1.microbiome20.H	0.005940901506859631	sourkraut gnar gnar	MM (20-min.)	sourkraut gnar gnar	MM (20-min.)	food	sourkraut	high	High biomass
+90990.12201.soil.bare.M.1.microbiome20.H	90990.12201.soil.bare.M.3.microbiome20.H	0.1356710978566423	bare soil site 1	MM (20-min.)	bare soil site 1	MM (20-min.)	soil	bare soil	high	High biomass
+90990.12201.oral.human.O.1.microbiome20.H	90990.12201.oral.human.O.2.microbiome20.H	0.03554965330177919	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.O.1.microbiome20.H	90990.12201.oral.human.O.3.microbiome20.H	0.033770723411338875	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.food.yogurt.4.3.microbiome20.H	90990.12201.food.yogurt.4.1.microbiome20.H	0.025316584015295393	Yoplait mango	MM (20-min.)	Yoplait mango	MM (20-min.)	food	yogurt	high	High biomass
+90990.12201.oral.human.B.2.microbiome20.H	90990.12201.oral.human.B.1.microbiome20.H	0.019288591394997893	human.saliva.B	MM (20-min.)	human.saliva.B	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.human.A.1.2.microbiome20.H	90990.12201.stool.human.fresh.A.1.1.microbiome20.H	0.4130460744057826	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.stool.human.A.1.2.microbiome20.H	90990.12201.stool.human.A.1.1.microbiome20.H	0.06634848331257794	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.oral.human.P.3.microbiome20.H	90990.12201.oral.human.P.2.microbiome20.H	0.06908920395084406	human.saliva.P	MM (20-min.)	human.saliva.P	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.T.2.microbiome20.H	90990.12201.oral.human.T.3.microbiome20.H	0.04075987885305376	human.saliva.T	MM (20-min.)	human.saliva.T	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.stool.human.fresh.A.1.1.microbiome20.H	90990.12201.stool.human.A.1.1.microbiome20.H	0.3792157361800963	human.feces.A	MM (20-min.)	human.feces.A	MM (20-min.)	human	human feces	high	High biomass
+90990.12201.soil.bare.slurry.N.3.microbiome20.H	90990.12201.soil.bare.slurry.N.2.microbiome20.H	0.10903230709148277	bare soil site 2	MM (20-min.)	bare soil site 2	MM (20-min.)	soil	bare soil	high	High biomass
+90990.12201.soil.bare.slurry.N.3.microbiome20.H	90990.12201.soil.bare.N.3.microbiome20.H	0.20819380325266723	bare soil site 2	MM (20-min.)	bare soil site 2	MM (20-min.)	soil	bare soil	high	High biomass
+90990.12201.oral.human.Q.3.microbiome20.H	90990.12201.oral.human.Q.2.microbiome20.H	0.09058246668183996	human.saliva.Q	MM (20-min.)	human.saliva.Q	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.soil.rhizosphere.slurry.K.3.microbiome20.H	90990.12201.soil.rhizosphere.slurry.K.2.microbiome20.H	0.02667941215856757	rhizosphere soil site 2	MM (20-min.)	rhizosphere soil site 2	MM (20-min.)	soil	rhizosphere soil	high	High biomass
+90990.12201.oral.human.R.3.microbiome20.H	90990.12201.oral.human.R.2.microbiome20.H	0.034679169808916124	human.saliva.R	MM (20-min.)	human.saliva.R	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.O.2.microbiome20.H	90990.12201.oral.human.O.3.microbiome20.H	0.023672191566745708	human.saliva.O	MM (20-min.)	human.saliva.O	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.oral.human.S.3.microbiome20.H	90990.12201.oral.human.S.2.microbiome20.H	0.05362448027222895	human.saliva.S	MM (20-min.)	human.saliva.S	MM (20-min.)	human	human saliva	high	High biomass
+90990.12201.soil.bare.slurry.N.2.microbiome20.H	90990.12201.soil.bare.N.3.microbiome20.H	0.20887687022621357	bare soil site 2	MM (20-min.)	bare soil site 2	MM (20-min.)	soil	bare soil	high	High biomass
+90990.12201.oral.saliva.D.2.qiagen.C	90990.12201.oral.saliva.D.3.qiagen.C	0.03355712866558039	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.qiagen.C	90990.12201.oral.saliva.D.1.qiagen.C	0.03557098280068853	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.qiagen.C	91743.12201.oral.human.D.2.qiagen.H	0.07768169285281236	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.2.qiagen.C	91743.12201.oral.human.D.1.qiagen.H	0.09616887127188811	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.skin.nares.Q.3.1.qiagen.C	90990.12201.skin.nares.Q.3.2.qiagen.C	0.05984309179314713	human nares Q	PS	human nares Q	PS	human	human nares	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.skin.throat.fresh.A.1.2.qiagen.C	0.47890090226591286	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.A.1.2.qiagen.C	0.11001201015178924	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.R.2.qiagen.C	0.4034400516444946	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.T.2.qiagen.C	0.3297608120889162	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.P.2.qiagen.C	0.3760463089494051	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.44129917328308105	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.33353679753857585	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.2.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.27703913676419517	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.forehead.Q.2.2.qiagen.C	90990.12201.skin.forehead.Q.1.2.qiagen.C	0.34255649484935985	human forehead Q	PS	human forehead Q	PS	human	human forehead	low	Low biomass
+90990.12201.skin.nares.eluent.W.qiagen.C	90990.12201.skin.nares.W.qiagen.C	0.056773050931068963	human nares W	PS	human nares W	PS	human	human nares	high	High biomass
+90990.12201.oral.saline.D.2.qiagen.C	90990.12201.oral.saline.D.3.qiagen.C	0.032042505650432034	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.D.2.qiagen.C	90990.12201.oral.saline.D.1.qiagen.C	0.03371449403996709	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.3.qiagen.C	90990.12201.oral.saline.A.2.qiagen.C	0.23660389731844647	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.A.3.qiagen.C	90990.12201.oral.saline.A.1.qiagen.C	0.2300480617177056	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.vtm.Q.2.qiagen.C	90990.12201.oral.saline.vtm.Q.3.qiagen.C	0.030933815493512047	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.Q.2.qiagen.C	90990.12201.oral.saline.vtm.Q.1.qiagen.C	0.05217256481965912	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.A.1.2.qiagen.C	0.46016626401832583	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.R.2.qiagen.C	0.3887070260724966	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.T.2.qiagen.C	0.7820942490702658	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.P.2.qiagen.C	0.8047358573853349	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.8971477515618184	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.41087098415170437	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.throat.fresh.A.1.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.7009936517621812	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.nares.D.3.1.qiagen.C	90990.12201.skin.nares.D.3.2.qiagen.C	0.49853716185519664	human nares D	PS	human nares D	PS	human	human nares	high	High biomass
+90990.12201.oral.throat.B.2.2.qiagen.C	90990.12201.oral.throat.B.1.2.qiagen.C	0.16195239642173836	human throat B	PS	human throat B	PS	human	human throat	high	High biomass
+90990.12201.skin.nares.B.3.1.qiagen.C	90990.12201.skin.nares.B.3.2.qiagen.C	0.4409413987183581	human nares B	PS	human nares B	PS	human	human nares	high	High biomass
+90990.12201.skin.forehead.eluent.T.2.qiagen.C	90990.12201.skin.forehead.T.2.qiagen.C	0.04379201868588097	human forehead T	PS	human forehead T	PS	human	human forehead	low	Low biomass
+90990.12201.oral.saliva.A.3.qiagen.C	90990.12201.oral.saliva.A.2.qiagen.C	0.07300325037599795	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.qiagen.C	90990.12201.oral.saliva.A.1.qiagen.C	0.04620303917774723	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.qiagen.C	91743.12201.oral.human.A.3.qiagen.H	0.043354168016818656	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.qiagen.C	91743.12201.oral.human.A.2.qiagen.H	0.14419894157401325	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.3.qiagen.C	91743.12201.oral.human.A.1.qiagen.H	0.11152637772468132	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.skin.forehead.D.2.2.qiagen.C	90990.12201.skin.forehead.D.1.2.qiagen.C	0.2405109717908411	human forehead D	PS	human forehead D	PS	human	human forehead	low	Low biomass
+90990.12201.oral.throat.D.2.2.qiagen.C	90990.12201.oral.throat.D.1.2.qiagen.C	0.3248917813830477	human throat D	PS	human throat D	PS	human	human throat	high	High biomass
+90990.12201.oral.saline.vtm.A.1.qiagen.C	90990.12201.oral.saline.vtm.A.2.qiagen.C	0.07535423240190707	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.A.1.qiagen.C	90990.12201.oral.saline.vtm.A.3.qiagen.C	0.04480472748845551	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saliva.A.2.qiagen.C	90990.12201.oral.saliva.A.1.qiagen.C	0.03352715409461696	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.qiagen.C	91743.12201.oral.human.A.3.qiagen.H	0.05959190618949879	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.qiagen.C	91743.12201.oral.human.A.2.qiagen.H	0.09096662220913808	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.2.qiagen.C	91743.12201.oral.human.A.1.qiagen.H	0.06524815462706668	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saline.Q.1.qiagen.C	90990.12201.oral.saline.Q.3.qiagen.C	0.10209683290499658	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.Q.1.qiagen.C	90990.12201.oral.saline.Q.2.qiagen.C	0.06298062877830261	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saliva.Q.1.qiagen.C	90990.12201.oral.saliva.Q.3.qiagen.C	0.07230877915409159	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.qiagen.C	90990.12201.oral.saliva.Q.2.qiagen.C	0.045150117106153485	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.qiagen.C	91743.12201.oral.human.Q.1.qiagen.H	0.10215594639300349	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.qiagen.C	91743.12201.oral.human.Q.3.qiagen.H	0.09920386913615897	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.1.qiagen.C	91743.12201.oral.human.Q.2.qiagen.H	0.085939726331836	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saline.A.2.qiagen.C	90990.12201.oral.saline.A.1.qiagen.C	0.05717959839666994	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.vtm.Q.3.qiagen.C	90990.12201.oral.saline.vtm.Q.1.qiagen.C	0.04205683497613241	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.R.2.qiagen.C	0.3314166833004687	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.T.2.qiagen.C	0.41417139332500424	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.P.2.qiagen.C	0.4399125401169633	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.5212937525912122	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.2686895065380053	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.A.1.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.3491843709635017	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.forehead.A.1.2.qiagen.C	90990.12201.skin.forehead.fresh.A.1.2.qiagen.C	0.07608775042856646	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+90990.12201.skin.forehead.A.1.2.qiagen.C	90990.12201.skin.forehead.A.2.2.qiagen.C	0.07041131732583461	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+90990.12201.skin.nares.V.qiagen.C	90990.12201.skin.nares.eluent.V.qiagen.C	0.23139564533145326	human nares V	PS	human nares V	PS	human	human nares	high	High biomass
+90990.12201.built.floor.D.1.qiagen.C	90990.12201.built.floor.D.3.qiagen.C	0.26117060364251665	floor_site_4	PS	floor_site_4	PS	built environment	floor	low	Low biomass
+90990.12201.built.floor.D.1.qiagen.C	90990.12201.built.floor.D.2.qiagen.C	0.24395609445054603	floor_site_4	PS	floor_site_4	PS	built environment	floor	low	Low biomass
+90990.12201.built.floor.C.2.qiagen.C	90990.12201.built.floor.C.1.qiagen.C	0.30460900200224383	floor_site_3	PS	floor_site_3	PS	built environment	floor	low	Low biomass
+90990.12201.oral.saline.D.3.qiagen.C	90990.12201.oral.saline.D.1.qiagen.C	0.04846479872413652	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saliva.D.3.qiagen.C	90990.12201.oral.saliva.D.1.qiagen.C	0.02632846536679547	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.qiagen.C	91743.12201.oral.human.D.2.qiagen.H	0.07010727288286574	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.3.qiagen.C	91743.12201.oral.human.D.1.qiagen.H	0.08586811721941948	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saline.vtm.D.1.qiagen.C	90990.12201.oral.saline.vtm.D.3.qiagen.C	0.08197847122995033	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.vtm.D.1.qiagen.C	90990.12201.oral.saline.vtm.D.2.qiagen.C	0.09981262726636003	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.skin.nares.fresh.A.1.2.qiagen.C	90990.12201.skin.nares.A.3.1.qiagen.C	0.12452770252111611	human nares A	PS	human nares A	PS	human	human nares	high	High biomass
+90990.12201.oral.throat.R.2.qiagen.C	90990.12201.oral.throat.T.2.qiagen.C	0.6966145461582013	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.R.2.qiagen.C	90990.12201.oral.throat.P.2.qiagen.C	0.696048295625687	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.R.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.7681764118564686	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.R.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.174705034330694	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.R.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.6192854052084773	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.T.2.qiagen.C	90990.12201.oral.throat.P.2.qiagen.C	0.18103940732357723	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.T.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.30240955269017156	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.T.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.6255360551645726	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.T.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.1831680707161808	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.built.floor.D.3.qiagen.C	90990.12201.built.floor.D.2.qiagen.C	0.25402259588863396	floor_site_4	PS	floor_site_4	PS	built environment	floor	low	Low biomass
+90990.12201.oral.saliva.D.1.qiagen.C	91743.12201.oral.human.D.2.qiagen.H	0.0755765162421229	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.D.1.qiagen.C	91743.12201.oral.human.D.1.qiagen.H	0.08856274599425427	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+90990.12201.oral.saline.vtm.D.3.qiagen.C	90990.12201.oral.saline.vtm.D.2.qiagen.C	0.03347262824794061	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.saline.Q.3.qiagen.C	90990.12201.oral.saline.Q.2.qiagen.C	0.04898481389781028	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+90990.12201.oral.saline.vtm.A.2.qiagen.C	90990.12201.oral.saline.vtm.A.3.qiagen.C	0.0715408862392517	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+90990.12201.oral.throat.P.2.qiagen.C	90990.12201.oral.throat.Q.1.2.qiagen.C	0.16887561072730378	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.P.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.6685498815510797	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.P.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.14396554473568635	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.1.2.qiagen.C	90990.12201.oral.throat.A.2.2.qiagen.C	0.7493938916461406	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.oral.throat.Q.1.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.25768720642427373	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+90990.12201.skin.forehead.R.2.qiagen.C	90990.12201.skin.forehead.eluent.R.2.qiagen.C	0.3455426516847322	human forehead R	PS	human forehead R	PS	human	human forehead	low	Low biomass
+90990.12201.oral.saliva.Q.3.qiagen.C	90990.12201.oral.saliva.Q.2.qiagen.C	0.04802445380612924	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.qiagen.C	91743.12201.oral.human.Q.1.qiagen.H	0.06769041315199467	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.qiagen.C	91743.12201.oral.human.Q.3.qiagen.H	0.06230892529879334	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.3.qiagen.C	91743.12201.oral.human.Q.2.qiagen.H	0.038829099636426834	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.qiagen.C	91743.12201.oral.human.Q.1.qiagen.H	0.09915753201935058	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.qiagen.C	91743.12201.oral.human.Q.3.qiagen.H	0.09520059115271576	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.Q.2.qiagen.C	91743.12201.oral.human.Q.2.qiagen.H	0.08153463896018512	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+90990.12201.skin.forehead.fresh.A.1.2.qiagen.C	90990.12201.skin.forehead.A.2.2.qiagen.C	0.059822633762706044	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+90990.12201.oral.saliva.A.1.qiagen.C	91743.12201.oral.human.A.3.qiagen.H	0.0423795589013705	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.qiagen.C	91743.12201.oral.human.A.2.qiagen.H	0.11029873821078971	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.saliva.A.1.qiagen.C	91743.12201.oral.human.A.1.qiagen.H	0.07686967241312155	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+90990.12201.oral.throat.A.2.2.qiagen.C	90990.12201.oral.throat.O.2.qiagen.C	0.5783537581568284	human throat A	PS	human throat A	PS	human	human throat	high	High biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d2.2.qiagen.L	0.25654785189681234	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d1.1.qiagen.L	0.225243200322197	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d3.2.qiagen.L	0.3867290115402658	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d4.1.qiagen.L	0.40272604470657114	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d2.1.qiagen.L	0.2694144919661395	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.15083708455308228	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.1683246592033979	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.3463008686228346	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.1.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.37098436740574237	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d4.2.qiagen.L	0.007772679732620736	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d1.2.qiagen.L	0.001098318241204826	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d5.2.qiagen.L	0.07051481469449179	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d2.1.qiagen.L	0.0007467184909784265	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d4.1.qiagen.L	0.012818255901571372	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.0017037348352205238	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.0009436952743134881	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.00104533300265378	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.1.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.0824904151683794	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d1.1.qiagen.L	0.03155568481317237	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d3.2.qiagen.L	0.13216561588314094	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d4.1.qiagen.L	0.1485112021412794	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d2.1.qiagen.L	0.014075566714326616	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.13419880355643476	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.09019863503623028	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.09188618065881018	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.2.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.11576712825536865	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.F.A.3.qiagen.L	91743.12201.wat.F.A.2.qiagen.L	0.16274526878514764	freshwater site 1	PS	freshwater site 1	PS	water	freshwater	low	Low biomass
+91743.12201.wat.F.A.3.qiagen.L	91743.12201.wat.F.A.1.qiagen.L	0.08172933690778009	freshwater site 1	PS	freshwater site 1	PS	water	freshwater	low	Low biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d1.2.qiagen.L	0.0072718822394575965	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d5.2.qiagen.L	0.06918209029989475	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d2.1.qiagen.L	0.008014301486513739	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d4.1.qiagen.L	0.010054946195697257	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.007840233514989425	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.00798908257839704	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.0077969949777179194	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.2.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08002819331564191	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.armpit.A.1.qiagen.L	91743.12201.skin.armpit.A.2.qiagen.L	0.06235557304154781	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.A.1.qiagen.L	91743.12201.skin.armpit.A.3.qiagen.L	0.1503476963785015	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d3.2.qiagen.L	0.16337616440333433	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d4.1.qiagen.L	0.17920777765754947	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d2.1.qiagen.L	0.04437902264694195	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.10334772109372811	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.05921808464627583	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.12299499339600382	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d1.1.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.14645002158797488	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.foot.B.3.qiagen.L	91743.12201.skin.foot.B.2.qiagen.L	0.0194799813654566	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+91743.12201.skin.foot.B.3.qiagen.L	91743.12201.skin.foot.B.1.qiagen.L	0.019486346047909928	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+91743.12201.wat.S.A.3.qiagen.L	91743.12201.wat.S.A.2.qiagen.L	0.0578142367923009	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+91743.12201.wat.S.A.3.qiagen.L	91743.12201.wat.S.A.1.qiagen.L	0.0365292538170949	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+91743.12201.skin.foot.O.3.qiagen.L	91743.12201.skin.foot.O.2.qiagen.L	0.04703441408418566	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+91743.12201.skin.foot.O.3.qiagen.L	91743.12201.skin.foot.O.1.qiagen.L	0.02874979653005884	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+91743.12201.uriF.P.3.qiagen.L	91743.12201.uriF.P.2.qiagen.L	0.11522350682483631	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+91743.12201.uriF.P.3.qiagen.L	91743.12201.uriF.P.1.qiagen.L	0.054168470429127175	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+91743.12201.skin.armpit.O.2.qiagen.L	91743.12201.skin.armpit.O.3.qiagen.L	0.06799211516246305	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+91743.12201.skin.armpit.O.2.qiagen.L	91743.12201.skin.armpit.O.1.qiagen.L	0.1172936062616934	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+91743.12201.uriF.P.2.qiagen.L	91743.12201.uriF.P.1.qiagen.L	0.10684479260182299	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+91743.12201.built.floor.A.2.qiagen.L	91743.12201.built.floor.A.1.qiagen.L	0.19017786521738742	floor_site_1	PS	floor_site_1	PS	built environment	floor	low	Low biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d5.2.qiagen.L	0.07049928119480726	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d2.1.qiagen.L	0.0017487897514573117	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d4.1.qiagen.L	0.012394682176870089	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.0018730711486915706	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.0009436537578233147	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.0015793789103610957	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.2.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08209765270638394	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.armpit.O.3.qiagen.L	91743.12201.skin.armpit.O.1.qiagen.L	0.07212809346924931	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+91743.12201.wat.S.A.2.qiagen.L	91743.12201.wat.S.A.1.qiagen.L	0.04566326700201878	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+91743.12201.skin.foot.B.2.qiagen.L	91743.12201.skin.foot.B.1.qiagen.L	0.011980144132520047	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+91743.12201.wat.F.B.1.qiagen.L	91743.12201.wat.F.B.3.qiagen.L	0.20990946213326525	freshwater site 2	PS	freshwater site 2	PS	water	freshwater	low	Low biomass
+91743.12201.wat.F.B.1.qiagen.L	91743.12201.wat.F.B.2.qiagen.L	0.12874183639409176	freshwater site 2	PS	freshwater site 2	PS	water	freshwater	low	Low biomass
+91743.12201.skin.foot.O.2.qiagen.L	91743.12201.skin.foot.O.1.qiagen.L	0.028462589876230144	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d4.1.qiagen.L	0.027821484431822988	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d2.1.qiagen.L	0.11913340152493733	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.2643640688407898	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.22094309139544407	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.06588691327045423	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d3.2.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.017105273094331026	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d2.1.qiagen.L	0.07122322167272528	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d4.1.qiagen.L	0.06474968925510997	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.07088006158950984	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.07070297602269308	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.07135847696224408	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d5.2.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.04406846961328526	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.uriF.S.1.qiagen.L	91743.12201.uriF.S.3.qiagen.L	0.020870110323817227	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+91743.12201.uriF.S.1.qiagen.L	91743.12201.uriF.S.2.qiagen.L	0.025490438598321428	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+91743.12201.built.floor.B.1.qiagen.L	91743.12201.built.floor.B.3.qiagen.L	0.17281851166804477	floor_site_2	PS	floor_site_2	PS	built environment	floor	low	Low biomass
+91743.12201.built.floor.B.1.qiagen.L	91743.12201.built.floor.B.2.qiagen.L	0.19861996089678993	floor_site_2	PS	floor_site_2	PS	built environment	floor	low	Low biomass
+91743.12201.para.d4.1.qiagen.L	91743.12201.para.d2.1.qiagen.L	0.1352350091810935	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.1.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.2733634245882825	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.1.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.23594922439307045	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.1.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.07710114514485895	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.1.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.033356012697997595	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.qiagen.L	91743.12201.bacsu.d4.1.qiagen.L	0.012817033919086696	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.0016367847400589814	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.0014285708793400507	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.0006378135635582164	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.1.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08300488364592808	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.S.B.1.qiagen.L	91743.12201.wat.S.B.3.qiagen.L	0.06276632681837857	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
+91743.12201.wat.S.B.1.qiagen.L	91743.12201.wat.S.B.2.qiagen.L	0.03368446453298283	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
+91743.12201.wat.F.A.2.qiagen.L	91743.12201.wat.F.A.1.qiagen.L	0.15349196136638937	freshwater site 1	PS	freshwater site 1	PS	water	freshwater	low	Low biomass
+91743.12201.skin.foot.A.1.qiagen.L	91743.12201.skin.foot.A.3.qiagen.L	0.01795693283992364	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+91743.12201.skin.foot.A.1.qiagen.L	91743.12201.skin.foot.A.2.qiagen.L	0.030703623151653	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+91743.12201.uriF.S.3.qiagen.L	91743.12201.uriF.S.2.qiagen.L	0.015456213641965852	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+91743.12201.skin.armpit.A.2.qiagen.L	91743.12201.skin.armpit.A.3.qiagen.L	0.13856071758902294	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+91743.12201.built.floor.B.3.qiagen.L	91743.12201.built.floor.B.2.qiagen.L	0.17955436377582945	floor_site_2	PS	floor_site_2	PS	built environment	floor	low	Low biomass
+91743.12201.wat.S.B.3.qiagen.L	91743.12201.wat.S.B.2.qiagen.L	0.08691893530467235	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
+91743.12201.para.d2.1.qiagen.L	91743.12201.para.d5.2.qiagen.L	0.14746229093561733	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.10348219331346024	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.07885413061731285	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d2.1.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.10238187073256849	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.qiagen.L	91743.12201.bacsu.d3.2.qiagen.L	0.012766544495191004	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.012611025482815516	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.012719485997235757	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d4.1.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.07448159607252734	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.skin.foot.A.3.qiagen.L	91743.12201.skin.foot.A.2.qiagen.L	0.04746351828113373	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+91743.12201.para.d5.2.qiagen.L	91743.12201.para.d6.1.qiagen.L	0.044546791621431985	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.2115281649043724	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d5.2.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.24909748772426338	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.qiagen.L	91743.12201.bacsu.d1.1.qiagen.L	0.0020018701049629877	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.0013919584783512917	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d3.2.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08301054045484542	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d6.1.qiagen.L	91743.12201.para.d4.2.qiagen.L	0.17952164470997847	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d6.1.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.20478735026526398	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.wat.F.B.3.qiagen.L	91743.12201.wat.F.B.2.qiagen.L	0.13028358287422592	freshwater site 2	PS	freshwater site 2	PS	water	freshwater	low	Low biomass
+91743.12201.bacsu.d1.1.qiagen.L	91743.12201.bacsu.d2.2.qiagen.L	0.0015557417231816435	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d1.1.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08262546053637726	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.para.d4.2.qiagen.L	91743.12201.para.d3.1.qiagen.L	0.0574244889191841	one Gram-negative strain	PS	one Gram-negative strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.bacsu.d2.2.qiagen.L	91743.12201.bacsu.d5.1.qiagen.L	0.08272168946020693	one Gram-positive strain	PS	one Gram-positive strain	PS	cultured cells	single strain	variable	Variable biomass
+91743.12201.food.yogurt.3.1.qiagen.H	91743.12201.food.yogurt.3.2.qiagen.H	0.007153309167732551	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+91743.12201.food.yogurt.3.1.qiagen.H	91743.12201.food.yogurt.3.3.qiagen.H	0.012361125900379159	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+91743.12201.oral.human.P.1.qiagen.H	91743.12201.oral.human.P.2.qiagen.H	0.03666363029769088	human.saliva.P	PS	human.saliva.P	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.P.1.qiagen.H	91743.12201.oral.human.P.3.qiagen.H	0.08848646588202431	human.saliva.P	PS	human.saliva.P	PS	human	human saliva	high	High biomass
+91743.12201.food.yogurt.4.2.qiagen.H	91743.12201.food.yogurt.4.3.qiagen.H	0.0013099077237214098	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+91743.12201.food.yogurt.4.2.qiagen.H	91743.12201.food.yogurt.4.1.qiagen.H	0.10310665538057985	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+91743.12201.stool.cat.O.2.qiagen.H	91743.12201.stool.cat.O.3.qiagen.H	0.1377352725781459	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+91743.12201.stool.cat.O.2.qiagen.H	91743.12201.stool.cat.O.1.qiagen.H	0.19355120404622772	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+91743.12201.soil.rhizosphere.K.3.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.1.qiagen.H	0.12636369367182715	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.qiagen.H	91743.12201.soil.rhizosphere.K.2.qiagen.H	0.20952555041771082	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.3.qiagen.H	0.1673987343525815	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.2.qiagen.H	0.18921923784242503	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.3.qiagen.H	91743.12201.soil.rhizosphere.K.1.qiagen.H	0.25108729870671415	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.oral.human.A.3.qiagen.H	91743.12201.oral.human.A.2.qiagen.H	0.1371434520298493	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.A.3.qiagen.H	91743.12201.oral.human.A.1.qiagen.H	0.09964169266821823	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+91743.12201.soil.rhizosphere.J.2.qiagen.H	91743.12201.soil.rhizosphere.J.3.qiagen.H	0.22702647761587938	rhizosphere soil site 1	PS	rhizosphere soil site 1	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.J.2.qiagen.H	91743.12201.soil.rhizosphere.J.1.qiagen.H	0.19658471231047245	rhizosphere soil site 1	PS	rhizosphere soil site 1	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.food.sourkraut.1.3.qiagen.H	91743.12201.food.sourkraut.1.2.qiagen.H	0.0033746457453633066	sourkraut classic caraway	PS	sourkraut classic caraway	PS	food	sourkraut	high	High biomass
+91743.12201.soil.bare.N.3.qiagen.H	91743.12201.soil.bare.slurry.N.3.qiagen.H	0.201946897157333	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.N.3.qiagen.H	91743.12201.soil.bare.slurry.N.2.qiagen.H	0.20148465895735831	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.N.3.qiagen.H	91743.12201.soil.bare.N.2.qiagen.H	0.13058812639214562	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.N.3.qiagen.H	91743.12201.soil.bare.N.1.qiagen.H	0.16373752479883208	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.oral.human.S.2.qiagen.H	91743.12201.oral.human.S.3.qiagen.H	0.03449204235563608	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.S.2.qiagen.H	91743.12201.oral.human.S.1.qiagen.H	0.035414573574952625	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+91743.12201.stool.human.fresh.A.1.2.qiagen.H	91743.12201.stool.human.A.1.1.qiagen.H	0.8478328553375722	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.2.qiagen.H	91743.12201.stool.human.fresh.A.1.3.qiagen.H	0.05886557009415086	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.2.qiagen.H	91743.12201.stool.human.A.1.2.qiagen.H	0.868349259803206	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.2.qiagen.H	91743.12201.stool.human.fresh.A.1.1.qiagen.H	0.10125341319208811	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.2.qiagen.H	91743.12201.stool.human.A.1.3.qiagen.H	0.9295924679452249	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.B.1.qiagen.H	91743.12201.stool.human.B.2.qiagen.H	0.1047693437287727	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+91743.12201.stool.human.B.1.qiagen.H	91743.12201.stool.human.B.3.qiagen.H	0.0817647084717697	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.1.qiagen.H	91743.12201.stool.human.fresh.A.1.3.qiagen.H	0.8047148011569706	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.1.qiagen.H	91743.12201.stool.human.A.1.2.qiagen.H	0.037730042134683055	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.1.qiagen.H	91743.12201.stool.human.fresh.A.1.1.qiagen.H	0.773274810457377	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.1.qiagen.H	91743.12201.stool.human.A.1.3.qiagen.H	0.0937911504180989	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.oral.human.T.1.qiagen.H	91743.12201.oral.human.T.2.qiagen.H	0.03195907302137651	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.T.1.qiagen.H	91743.12201.oral.human.T.3.qiagen.H	0.014895881990287909	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+91743.12201.stool.cat.P.3.qiagen.H	91743.12201.stool.cat.P.2.qiagen.H	0.06892651718482347	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+91743.12201.stool.cat.P.3.qiagen.H	91743.12201.stool.cat.P.1.qiagen.H	0.13638525651870592	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+91743.12201.oral.human.D.2.qiagen.H	91743.12201.oral.human.D.1.qiagen.H	0.04107153113755698	human.saliva.D	PS	human.saliva.D	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.R.3.qiagen.H	91743.12201.oral.human.R.2.qiagen.H	0.10480487205927663	human.saliva.R	PS	human.saliva.R	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.R.3.qiagen.H	91743.12201.oral.human.R.1.qiagen.H	0.07669444671762171	human.saliva.R	PS	human.saliva.R	PS	human	human saliva	high	High biomass
+91743.12201.bacsu.para.d1.qiagen.H	91743.12201.bacsu.para.d7.qiagen.H	0.5380354645005928	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.bacsu.para.d1.qiagen.H	91743.12201.bacsu.para.d2.qiagen.H	0.05140106323341688	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.bacsu.para.d1.qiagen.H	91743.12201.bacsu.para.d3.qiagen.H	0.12149681763318997	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.soil.bare.slurry.N.3.qiagen.H	91743.12201.soil.bare.slurry.N.2.qiagen.H	0.11094895709766708	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.slurry.N.3.qiagen.H	91743.12201.soil.bare.N.2.qiagen.H	0.1755031072992092	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.slurry.N.3.qiagen.H	91743.12201.soil.bare.N.1.qiagen.H	0.15036123236328686	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.M.1.qiagen.H	91743.12201.soil.bare.M.3.qiagen.H	0.19063649428128593	bare soil site 1	PS	bare soil site 1	PS	soil	bare soil	high	High biomass
+91743.12201.food.sourkraut.2.1.qiagen.H	91743.12201.food.sourkraut.2.3.qiagen.H	0.04180883664376887	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+91743.12201.food.sourkraut.2.1.qiagen.H	91743.12201.food.sourkraut.2.2.qiagen.H	0.013336385795179756	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.1.qiagen.H	91743.12201.soil.rhizosphere.K.2.qiagen.H	0.22944973332571222	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.1.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.3.qiagen.H	0.14156449765162213	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.1.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.2.qiagen.H	0.1695208171414657	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.1.qiagen.H	91743.12201.soil.rhizosphere.K.1.qiagen.H	0.25267355561616955	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.bare.slurry.N.2.qiagen.H	91743.12201.soil.bare.N.2.qiagen.H	0.1652587500768792	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.soil.bare.slurry.N.2.qiagen.H	91743.12201.soil.bare.N.1.qiagen.H	0.13783635990605667	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.oral.human.R.2.qiagen.H	91743.12201.oral.human.R.1.qiagen.H	0.05741604986506273	human.saliva.R	PS	human.saliva.R	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.B.1.qiagen.H	91743.12201.oral.human.B.3.qiagen.H	0.04788849409706858	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.B.1.qiagen.H	91743.12201.oral.human.B.2.qiagen.H	0.06634265858793392	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.S.3.qiagen.H	91743.12201.oral.human.S.1.qiagen.H	0.043783287321180815	human.saliva.S	PS	human.saliva.S	PS	human	human saliva	high	High biomass
+91743.12201.stool.human.fresh.A.1.3.qiagen.H	91743.12201.stool.human.A.1.2.qiagen.H	0.8254543931055814	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.3.qiagen.H	91743.12201.stool.human.fresh.A.1.1.qiagen.H	0.05403740163622375	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.fresh.A.1.3.qiagen.H	91743.12201.stool.human.A.1.3.qiagen.H	0.8866628684652902	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.cat.P.2.qiagen.H	91743.12201.stool.cat.P.1.qiagen.H	0.11023969691549905	cat.feces.P	PS	cat.feces.P	PS	cat	cat feces	high	High biomass
+91743.12201.oral.human.O.1.qiagen.H	91743.12201.oral.human.O.3.qiagen.H	0.04935529124200651	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.O.1.qiagen.H	91743.12201.oral.human.O.2.qiagen.H	0.04291894513655569	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+91743.12201.soil.rhizosphere.J.3.qiagen.H	91743.12201.soil.rhizosphere.J.1.qiagen.H	0.17886124827707786	rhizosphere soil site 1	PS	rhizosphere soil site 1	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.oral.human.Q.1.qiagen.H	91743.12201.oral.human.Q.3.qiagen.H	0.031316493839496154	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.Q.1.qiagen.H	91743.12201.oral.human.Q.2.qiagen.H	0.04725948488184517	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+91743.12201.soil.bare.N.2.qiagen.H	91743.12201.soil.bare.N.1.qiagen.H	0.13339317999918293	bare soil site 2	PS	bare soil site 2	PS	soil	bare soil	high	High biomass
+91743.12201.food.yogurt.4.3.qiagen.H	91743.12201.food.yogurt.4.1.qiagen.H	0.10315184126492523	Yoplait mango	PS	Yoplait mango	PS	food	yogurt	high	High biomass
+91743.12201.stool.cat.O.3.qiagen.H	91743.12201.stool.cat.O.1.qiagen.H	0.29071906902281364	cat.feces.O	PS	cat.feces.O	PS	cat	cat feces	high	High biomass
+91743.12201.soil.rhizosphere.K.2.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.3.qiagen.H	0.29192702051359865	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.2.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.2.qiagen.H	0.32273320789498805	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.K.2.qiagen.H	91743.12201.soil.rhizosphere.K.1.qiagen.H	0.16175918982773207	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.oral.human.A.2.qiagen.H	91743.12201.oral.human.A.1.qiagen.H	0.09711020302939627	human.saliva.A	PS	human.saliva.A	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.Q.3.qiagen.H	91743.12201.oral.human.Q.2.qiagen.H	0.052823762604749594	human.saliva.Q	PS	human.saliva.Q	PS	human	human saliva	high	High biomass
+91743.12201.oral.human.P.2.qiagen.H	91743.12201.oral.human.P.3.qiagen.H	0.08702018172800649	human.saliva.P	PS	human.saliva.P	PS	human	human saliva	high	High biomass
+91743.12201.bacsu.para.d7.qiagen.H	91743.12201.bacsu.para.d2.qiagen.H	0.5542960385533842	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.bacsu.para.d7.qiagen.H	91743.12201.bacsu.para.d3.qiagen.H	0.5199419003175285	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.food.yogurt.3.2.qiagen.H	91743.12201.food.yogurt.3.3.qiagen.H	0.0062849777218428856	Yoplait strawberry	PS	Yoplait strawberry	PS	food	yogurt	high	High biomass
+91743.12201.bacsu.para.d2.qiagen.H	91743.12201.bacsu.para.d3.qiagen.H	0.07224190121092015	one Gram-positive strain and one Gram-negative strain	PS	one Gram-positive strain and one Gram-negative strain	PS	cultured cells	two strains	variable	Variable biomass
+91743.12201.food.sourkraut.2.3.qiagen.H	91743.12201.food.sourkraut.2.2.qiagen.H	0.03232599740801954	sourkraut gnar gnar	PS	sourkraut gnar gnar	PS	food	sourkraut	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.3.qiagen.H	91743.12201.soil.rhizosphere.slurry.K.2.qiagen.H	0.053512379690280346	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.3.qiagen.H	91743.12201.soil.rhizosphere.K.1.qiagen.H	0.3186886185250294	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass
+91743.12201.oral.human.O.3.qiagen.H	91743.12201.oral.human.O.2.qiagen.H	0.03217160234990331	human.saliva.O	PS	human.saliva.O	PS	human	human saliva	high	High biomass
+91743.12201.stool.human.A.1.2.qiagen.H	91743.12201.stool.human.fresh.A.1.1.qiagen.H	0.7939834137633293	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.stool.human.A.1.2.qiagen.H	91743.12201.stool.human.A.1.3.qiagen.H	0.0711371802910275	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.oral.human.T.2.qiagen.H	91743.12201.oral.human.T.3.qiagen.H	0.03137144675576063	human.saliva.T	PS	human.saliva.T	PS	human	human saliva	high	High biomass
+91743.12201.stool.human.B.2.qiagen.H	91743.12201.stool.human.B.3.qiagen.H	0.055458831445935906	human.feces.B	PS	human.feces.B	PS	human	human feces	high	High biomass
+91743.12201.oral.human.B.3.qiagen.H	91743.12201.oral.human.B.2.qiagen.H	0.03107400557015337	human.saliva.B	PS	human.saliva.B	PS	human	human saliva	high	High biomass
+91743.12201.stool.human.fresh.A.1.1.qiagen.H	91743.12201.stool.human.A.1.3.qiagen.H	0.8546847320135577	human.feces.A	PS	human.feces.A	PS	human	human feces	high	High biomass
+91743.12201.soil.rhizosphere.slurry.K.2.qiagen.H	91743.12201.soil.rhizosphere.K.1.qiagen.H	0.35067895256444065	rhizosphere soil site 2	PS	rhizosphere soil site 2	PS	soil	rhizosphere soil	high	High biomass

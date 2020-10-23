@@ -1,0 +1,210 @@
+sample1	sample2	value	sample1_type	sample1_extraction_protocol_short	sample2_type	sample2_extraction_protocol_short	sample_type	sample_type_2	biomass_sample	biomass_sample_long
+built_doorknob_B_1_microbiome20_L	built_doorknob_B_2_microbiome20_L	0.685981308411215	doorknob B BRF2 lab	MM (20-min.)	doorknob B BRF2 lab	MM (20-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_1_microbiome20_L	built_doorknob_B_3_microbiome20_L	0.7003676470588235	doorknob B BRF2 lab	MM (20-min.)	doorknob B BRF2 lab	MM (20-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_1_microbiome2_L	built_doorknob_B_2_microbiome2_L	0.6427015250544662	doorknob B BRF2 lab	MM (2-min.)	doorknob B BRF2 lab	MM (2-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_1_microbiome2_L	built_doorknob_B_3_microbiome2_L	0.720679012345679	doorknob B BRF2 lab	MM (2-min.)	doorknob B BRF2 lab	MM (2-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_1_qiagen_L	built_doorknob_B_2_qiagen_L	0.6858475894245724	doorknob B BRF2 lab	PS	doorknob B BRF2 lab	PS	built environment	doorknob	low	Low biomass
+built_doorknob_B_1_qiagen_L	built_doorknob_B_3_qiagen_L	0.7147058823529412	doorknob B BRF2 lab	PS	doorknob B BRF2 lab	PS	built environment	doorknob	low	Low biomass
+built_doorknob_B_2_microbiome20_L	built_doorknob_B_3_microbiome20_L	0.688	doorknob B BRF2 lab	MM (20-min.)	doorknob B BRF2 lab	MM (20-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_2_microbiome2_L	built_doorknob_B_3_microbiome2_L	0.6786786786786787	doorknob B BRF2 lab	MM (2-min.)	doorknob B BRF2 lab	MM (2-min.)	built environment	doorknob	low	Low biomass
+built_doorknob_B_2_qiagen_L	built_doorknob_B_3_qiagen_L	0.697841726618705	doorknob B BRF2 lab	PS	doorknob B BRF2 lab	PS	built environment	doorknob	low	Low biomass
+built_doorknob_D_2_microbiome20_C	built_doorknob_D_3_microbiome20_C	0.7352941176470589	doorknob D EBU2 east	MM (20-min.)	doorknob D EBU2 east	MM (20-min.)	built environment	doorknob	low	Low biomass
+built_floor_A_1_microbiome20_L	built_floor_A_2_microbiome20_L	0.4970014992503748	floor_site_1	MM (20-min.)	floor_site_1	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_A_1_microbiome20_L	built_floor_A_3_microbiome20_L	0.4934256055363322	floor_site_1	MM (20-min.)	floor_site_1	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_A_1_microbiome2_L	built_floor_A_2_microbiome2_L	0.5109170305676856	floor_site_1	MM (2-min.)	floor_site_1	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_A_1_microbiome2_L	built_floor_A_3_microbiome2_L	0.5160390516039052	floor_site_1	MM (2-min.)	floor_site_1	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_A_1_qiagen_L	built_floor_A_2_qiagen_L	0.5601816805450416	floor_site_1	PS	floor_site_1	PS	built environment	floor	low	Low biomass
+built_floor_A_2_microbiome20_L	built_floor_A_3_microbiome20_L	0.510752688172043	floor_site_1	MM (20-min.)	floor_site_1	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_A_2_microbiome2_L	built_floor_A_3_microbiome2_L	0.5129642606867554	floor_site_1	MM (2-min.)	floor_site_1	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_B_1_microbiome20_L	built_floor_B_2_microbiome20_L	0.5056451612903226	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_B_1_microbiome20_L	built_floor_B_3_microbiome20_L	0.5231010180109632	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_B_1_microbiome2_L	built_floor_B_2_microbiome2_L	0.4860449285228046	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_B_1_microbiome2_L	built_floor_B_3_microbiome2_L	0.5213864306784661	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_B_2_microbiome20_L	built_floor_B_3_microbiome20_L	0.5141287284144427	floor_site_2	MM (20-min.)	floor_site_2	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_B_2_microbiome2_L	built_floor_B_3_microbiome2_L	0.5280059746079163	floor_site_2	MM (2-min.)	floor_site_2	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_C_1_microbiome2_C	built_floor_C_2_microbiome2_C	0.5575	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_C_1_microbiome2_C	built_floor_C_3_microbiome2_C	0.590778097982709	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_C_2_microbiome2_C	built_floor_C_3_microbiome2_C	0.5950266429840142	floor_site_3	MM (2-min.)	floor_site_3	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_D_1_microbiome20_C	built_floor_D_3_microbiome20_C	0.6046153846153847	floor_site_4	MM (20-min.)	floor_site_4	MM (20-min.)	built environment	floor	low	Low biomass
+built_floor_D_1_microbiome2_C	built_floor_D_2_microbiome2_C	0.5603112840466926	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_D_1_microbiome2_C	built_floor_D_3_microbiome2_C	0.6008	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+built_floor_D_2_microbiome2_C	built_floor_D_3_microbiome2_C	0.6004901960784313	floor_site_4	MM (2-min.)	floor_site_4	MM (2-min.)	built environment	floor	low	Low biomass
+oral_saline_A_1_microbiome20_C	oral_saline_A_2_microbiome20_C	0.43272727272727274	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_1_microbiome20_C	oral_saline_A_3_microbiome20_C	0.4197761194029851	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_1_microbiome2_C	oral_saline_A_2_microbiome2_C	0.4386973180076628	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_1_microbiome2_C	oral_saline_A_3_microbiome2_C	0.4582560296846011	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_1_qiagen_C	oral_saline_A_2_qiagen_C	0.4050632911392405	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_A_1_qiagen_C	oral_saline_A_3_qiagen_C	0.4188034188034188	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_A_2_microbiome20_C	oral_saline_A_3_microbiome20_C	0.4230769230769231	human.saline.rinse.A	MM (20-min.)	human.saline.rinse.A	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_2_microbiome2_C	oral_saline_A_3_microbiome2_C	0.42829076620825146	human.saline.rinse.A	MM (2-min.)	human.saline.rinse.A	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_A_2_qiagen_C	oral_saline_A_3_qiagen_C	0.4156378600823045	human.saline.rinse.A	PS	human.saline.rinse.A	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_microbiome20_C	oral_saline_D_2_microbiome20_C	0.4189189189189189	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_microbiome20_C	oral_saline_D_3_microbiome20_C	0.4490238611713666	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_microbiome2_C	oral_saline_D_2_microbiome2_C	0.46311475409836067	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_microbiome2_C	oral_saline_D_3_microbiome2_C	0.43829787234042555	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_qiagen_C	oral_saline_D_2_qiagen_C	0.3783132530120482	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_D_1_qiagen_C	oral_saline_D_3_qiagen_C	0.4178082191780822	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_D_2_microbiome20_C	oral_saline_D_3_microbiome20_C	0.43237250554323725	human.saline.rinse.D	MM (20-min.)	human.saline.rinse.D	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_2_microbiome2_C	oral_saline_D_3_microbiome2_C	0.4816326530612245	human.saline.rinse.D	MM (2-min.)	human.saline.rinse.D	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_D_2_qiagen_C	oral_saline_D_3_qiagen_C	0.41839080459770117	human.saline.rinse.D	PS	human.saline.rinse.D	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_microbiome20_C	oral_saline_Q_2_microbiome20_C	0.4743362831858407	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_microbiome20_C	oral_saline_Q_3_microbiome20_C	0.42193308550185876	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_microbiome2_C	oral_saline_Q_2_microbiome2_C	0.45925925925925926	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_microbiome2_C	oral_saline_Q_3_microbiome2_C	0.43243243243243246	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_qiagen_C	oral_saline_Q_2_qiagen_C	0.4223744292237443	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_1_qiagen_C	oral_saline_Q_3_qiagen_C	0.42792792792792794	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_2_microbiome20_C	oral_saline_Q_3_microbiome20_C	0.46774193548387094	human.saline.rinse.Q	MM (20-min.)	human.saline.rinse.Q	MM (20-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_2_microbiome2_C	oral_saline_Q_3_microbiome2_C	0.4349442379182156	human.saline.rinse.Q	MM (2-min.)	human.saline.rinse.Q	MM (2-min.)	human	human oral saline rinse	low	Low biomass
+oral_saline_Q_2_qiagen_C	oral_saline_Q_3_qiagen_C	0.4013761467889908	human.saline.rinse.Q	PS	human.saline.rinse.Q	PS	human	human oral saline rinse	low	Low biomass
+oral_saline_vtm_A_1_microbiome20_C	oral_saline_vtm_A_2_microbiome20_C	0.45286506469500926	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_1_microbiome20_C	oral_saline_vtm_A_3_microbiome20_C	0.44569288389513106	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_1_microbiome2_C	oral_saline_vtm_A_2_microbiome2_C	0.4246031746031746	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_1_microbiome2_C	oral_saline_vtm_A_3_microbiome2_C	0.43333333333333335	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_1_qiagen_C	oral_saline_vtm_A_2_qiagen_C	0.44863731656184486	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_1_qiagen_C	oral_saline_vtm_A_3_qiagen_C	0.4279475982532751	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_2_microbiome20_C	oral_saline_vtm_A_3_microbiome20_C	0.45083487940630795	human.saline.rinse.VTM.A	MM (20-min.)	human.saline.rinse.VTM.A	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_2_microbiome2_C	oral_saline_vtm_A_3_microbiome2_C	0.4697855750487329	human.saline.rinse.VTM.A	MM (2-min.)	human.saline.rinse.VTM.A	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_A_2_qiagen_C	oral_saline_vtm_A_3_qiagen_C	0.3738738738738739	human.saline.rinse.VTM.A	PS	human.saline.rinse.VTM.A	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_microbiome20_C	oral_saline_vtm_D_2_microbiome20_C	0.4336842105263158	human.saline.rinse.VTM.D	MM (20-min.)	human.saline.rinse.VTM.D	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_microbiome20_C	oral_saline_vtm_D_3_microbiome20_C	0.46122448979591835	human.saline.rinse.VTM.D	MM (20-min.)	human.saline.rinse.VTM.D	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_microbiome2_C	oral_saline_vtm_D_2_microbiome2_C	0.47950819672131145	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_microbiome2_C	oral_saline_vtm_D_3_microbiome2_C	0.453416149068323	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_qiagen_C	oral_saline_vtm_D_2_qiagen_C	0.3752969121140142	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_1_qiagen_C	oral_saline_vtm_D_3_qiagen_C	0.40589569160997735	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_2_microbiome20_C	oral_saline_vtm_D_3_microbiome20_C	0.4573804573804574	human.saline.rinse.VTM.D	MM (20-min.)	human.saline.rinse.VTM.D	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_2_microbiome2_C	oral_saline_vtm_D_3_microbiome2_C	0.4786150712830957	human.saline.rinse.VTM.D	MM (2-min.)	human.saline.rinse.VTM.D	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_D_2_qiagen_C	oral_saline_vtm_D_3_qiagen_C	0.4282608695652174	human.saline.rinse.VTM.D	PS	human.saline.rinse.VTM.D	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_microbiome20_C	oral_saline_vtm_Q_2_microbiome20_C	0.4436229205175601	human.saline.rinse.VTM.Q	MM (20-min.)	human.saline.rinse.VTM.Q	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_microbiome20_C	oral_saline_vtm_Q_3_microbiome20_C	0.45540796963946867	human.saline.rinse.VTM.Q	MM (20-min.)	human.saline.rinse.VTM.Q	MM (20-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_microbiome2_C	oral_saline_vtm_Q_2_microbiome2_C	0.4107883817427386	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_microbiome2_C	oral_saline_vtm_Q_3_microbiome2_C	0.4121338912133891	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_qiagen_C	oral_saline_vtm_Q_2_qiagen_C	0.3842696629213483	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_1_qiagen_C	oral_saline_vtm_Q_3_qiagen_C	0.4158004158004158	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_2_microbiome2_C	oral_saline_vtm_Q_3_microbiome2_C	0.45219123505976094	human.saline.rinse.VTM.Q	MM (2-min.)	human.saline.rinse.VTM.Q	MM (2-min.)	human	human oral saline rinse in VTM	low	Low biomass
+oral_saline_vtm_Q_2_qiagen_C	oral_saline_vtm_Q_3_qiagen_C	0.39414414414414417	human.saline.rinse.VTM.Q	PS	human.saline.rinse.VTM.Q	PS	human	human oral saline rinse in VTM	low	Low biomass
+skin_armpit_A_1_microbiome20_L	skin_armpit_A_2_microbiome20_L	0.6157024793388429	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_1_microbiome20_L	skin_armpit_A_3_microbiome20_L	0.5679012345679012	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_1_microbiome2_L	skin_armpit_A_2_microbiome2_L	0.5655737704918032	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_1_microbiome2_L	skin_armpit_A_3_microbiome2_L	0.6215139442231076	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_1_qiagen_L	skin_armpit_A_2_qiagen_L	0.5822102425876011	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+skin_armpit_A_1_qiagen_L	skin_armpit_A_3_qiagen_L	0.6217765042979942	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+skin_armpit_A_2_microbiome20_L	skin_armpit_A_3_microbiome20_L	0.5708333333333333	human.armpit.A	MM (20-min.)	human.armpit.A	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_2_microbiome2_L	skin_armpit_A_3_microbiome2_L	0.6486486486486487	human.armpit.A	MM (2-min.)	human.armpit.A	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_A_2_qiagen_L	skin_armpit_A_3_qiagen_L	0.5583596214511041	human.armpit.A	PS	human.armpit.A	PS	human	human armpit	low	Low biomass
+skin_armpit_B_1_microbiome20_L	skin_armpit_B_2_microbiome20_L	0.7777777777777778	human.armpit.B	MM (20-min.)	human.armpit.B	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_1_microbiome20_L	skin_armpit_B_3_microbiome20_L	0.7225130890052356	human.armpit.B	MM (20-min.)	human.armpit.B	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_1_microbiome2_L	skin_armpit_B_2_microbiome2_L	0.6454545454545455	human.armpit.B	MM (2-min.)	human.armpit.B	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_1_microbiome2_L	skin_armpit_B_3_microbiome2_L	0.7598039215686274	human.armpit.B	MM (2-min.)	human.armpit.B	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_1_qiagen_L	skin_armpit_B_2_qiagen_L	0.612565445026178	human.armpit.B	PS	human.armpit.B	PS	human	human armpit	low	Low biomass
+skin_armpit_B_1_qiagen_L	skin_armpit_B_3_qiagen_L	0.6778242677824268	human.armpit.B	PS	human.armpit.B	PS	human	human armpit	low	Low biomass
+skin_armpit_B_2_microbiome20_L	skin_armpit_B_3_microbiome20_L	0.7277777777777777	human.armpit.B	MM (20-min.)	human.armpit.B	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_2_microbiome2_L	skin_armpit_B_3_microbiome2_L	0.7980295566502463	human.armpit.B	MM (2-min.)	human.armpit.B	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_B_2_qiagen_L	skin_armpit_B_3_qiagen_L	0.6035242290748899	human.armpit.B	PS	human.armpit.B	PS	human	human armpit	low	Low biomass
+skin_armpit_O_1_microbiome20_L	skin_armpit_O_2_microbiome20_L	0.7132701421800948	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_1_microbiome20_L	skin_armpit_O_3_microbiome20_L	0.6727272727272727	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_1_microbiome2_L	skin_armpit_O_2_microbiome2_L	0.6022514071294559	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_1_microbiome2_L	skin_armpit_O_3_microbiome2_L	0.7157676348547718	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_1_qiagen_L	skin_armpit_O_2_qiagen_L	0.6282051282051282	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+skin_armpit_O_1_qiagen_L	skin_armpit_O_3_qiagen_L	0.6212121212121212	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+skin_armpit_O_2_microbiome20_L	skin_armpit_O_3_microbiome20_L	0.6014760147601476	human.armpit.O	MM (20-min.)	human.armpit.O	MM (20-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_2_microbiome2_L	skin_armpit_O_3_microbiome2_L	0.6699751861042184	human.armpit.O	MM (2-min.)	human.armpit.O	MM (2-min.)	human	human armpit	low	Low biomass
+skin_armpit_O_2_qiagen_L	skin_armpit_O_3_qiagen_L	0.6386363636363637	human.armpit.O	PS	human.armpit.O	PS	human	human armpit	low	Low biomass
+skin_foot_A_1_microbiome20_L	skin_foot_A_2_microbiome20_L	0.6524064171122995	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_A_1_microbiome20_L	skin_foot_A_3_microbiome20_L	0.5757575757575758	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_A_1_microbiome2_L	skin_foot_A_2_microbiome2_L	0.5023923444976076	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_A_1_microbiome2_L	skin_foot_A_3_microbiome2_L	0.4852941176470588	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_A_1_qiagen_L	skin_foot_A_2_qiagen_L	0.44970414201183434	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+skin_foot_A_1_qiagen_L	skin_foot_A_3_qiagen_L	0.4875	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+skin_foot_A_2_microbiome20_L	skin_foot_A_3_microbiome20_L	0.6120092378752887	human.foot.A	MM (20-min.)	human.foot.A	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_A_2_microbiome2_L	skin_foot_A_3_microbiome2_L	0.4796380090497738	human.foot.A	MM (2-min.)	human.foot.A	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_A_2_qiagen_L	skin_foot_A_3_qiagen_L	0.46835443037974683	human.foot.A	PS	human.foot.A	PS	human	human foot	low	Low biomass
+skin_foot_B_1_microbiome20_L	skin_foot_B_2_microbiome20_L	0.6176470588235294	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_B_1_microbiome20_L	skin_foot_B_3_microbiome20_L	0.6338028169014085	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_B_1_microbiome2_L	skin_foot_B_2_microbiome2_L	0.59	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_B_1_microbiome2_L	skin_foot_B_3_microbiome2_L	0.5718157181571816	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_B_1_qiagen_L	skin_foot_B_2_qiagen_L	0.6491803278688525	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+skin_foot_B_1_qiagen_L	skin_foot_B_3_qiagen_L	0.6214511041009464	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+skin_foot_B_2_microbiome20_L	skin_foot_B_3_microbiome20_L	0.5759036144578313	human.foot.B	MM (20-min.)	human.foot.B	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_B_2_microbiome2_L	skin_foot_B_3_microbiome2_L	0.6327543424317618	human.foot.B	MM (2-min.)	human.foot.B	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_B_2_qiagen_L	skin_foot_B_3_qiagen_L	0.6421725239616614	human.foot.B	PS	human.foot.B	PS	human	human foot	low	Low biomass
+skin_foot_O_1_microbiome20_L	skin_foot_O_2_microbiome20_L	0.5964467005076142	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_O_1_microbiome20_L	skin_foot_O_3_microbiome20_L	0.6014669926650367	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_O_1_microbiome2_L	skin_foot_O_2_microbiome2_L	0.5489614243323442	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_O_1_microbiome2_L	skin_foot_O_3_microbiome2_L	0.5843828715365239	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_O_1_qiagen_L	skin_foot_O_2_qiagen_L	0.5342105263157895	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+skin_foot_O_1_qiagen_L	skin_foot_O_3_qiagen_L	0.6371490280777538	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+skin_foot_O_2_microbiome20_L	skin_foot_O_3_microbiome20_L	0.6049723756906077	human.foot.O	MM (20-min.)	human.foot.O	MM (20-min.)	human	human foot	low	Low biomass
+skin_foot_O_2_microbiome2_L	skin_foot_O_3_microbiome2_L	0.6085790884718498	human.foot.O	MM (2-min.)	human.foot.O	MM (2-min.)	human	human foot	low	Low biomass
+skin_foot_O_2_qiagen_L	skin_foot_O_3_qiagen_L	0.5991561181434599	human.foot.O	PS	human.foot.O	PS	human	human foot	low	Low biomass
+skin_forehead_A_1_1_microbiome2_C	skin_forehead_A_2_1_microbiome2_C	0.696	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_A_1_1_microbiome2_C	skin_forehead_fresh_A_1_1_microbiome2_C	0.6610169491525424	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_A_1_2_qiagen_C	skin_forehead_A_2_2_qiagen_C	0.673728813559322	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+skin_forehead_A_1_2_qiagen_C	skin_forehead_fresh_A_1_2_qiagen_C	0.6126126126126126	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+skin_forehead_A_2_1_microbiome2_C	skin_forehead_fresh_A_1_1_microbiome2_C	0.6633663366336634	human forehead A	MM (2-min.)	human forehead A	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_A_2_2_qiagen_C	skin_forehead_fresh_A_1_2_qiagen_C	0.6805555555555556	human forehead A	PS	human forehead A	PS	human	human forehead	low	Low biomass
+skin_forehead_A_3_1_microbiome20_C	skin_forehead_A_3_2_microbiome20_C	0.61	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_A_3_1_microbiome20_C	skin_forehead_fresh_A_2_microbiome20_C	0.6804123711340206	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_A_3_2_microbiome20_C	skin_forehead_fresh_A_2_microbiome20_C	0.696969696969697	human forehead A	MM (20-min.)	human forehead A	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_B_1_1_microbiome2_C	skin_forehead_B_2_1_microbiome2_C	0.6086956521739131	human forehead B	MM (2-min.)	human forehead B	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_B_1_2_qiagen_C	skin_forehead_B_2_2_qiagen_C	0.6344827586206897	human forehead B	PS	human forehead B	PS	human	human forehead	low	Low biomass
+skin_forehead_D_1_1_microbiome2_C	skin_forehead_D_2_1_microbiome2_C	0.6262626262626263	human forehead D	MM (2-min.)	human forehead D	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_D_1_2_qiagen_C	skin_forehead_D_2_2_qiagen_C	0.6148648648648649	human forehead D	PS	human forehead D	PS	human	human forehead	low	Low biomass
+skin_forehead_D_3_1_microbiome20_C	skin_forehead_D_3_2_microbiome20_C	0.6222222222222222	human forehead D	MM (20-min.)	human forehead D	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_O_1_microbiome2_C	skin_forehead_eluent_O_1_microbiome2_C	0.5847457627118644	human forehead O	MM (2-min.)	human forehead O	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_P_1_microbiome2_C	skin_forehead_eluent_P_1_microbiome2_C	0.6491228070175439	human forehead P	MM (2-min.)	human forehead P	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_P_2_qiagen_C	skin_forehead_eluent_P_2_qiagen_C	0.6233766233766234	human forehead P	PS	human forehead P	PS	human	human forehead	low	Low biomass
+skin_forehead_Q_1_1_microbiome2_C	skin_forehead_Q_2_1_microbiome2_C	0.6604938271604939	human forehead Q	MM (2-min.)	human forehead Q	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_Q_3_1_microbiome20_C	skin_forehead_Q_3_2_microbiome20_C	0.6386554621848739	human forehead Q	MM (20-min.)	human forehead Q	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_R_1_microbiome2_C	skin_forehead_eluent_R_1_microbiome2_C	0.6762589928057554	human forehead R	MM (2-min.)	human forehead R	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_R_2_qiagen_C	skin_forehead_eluent_R_2_qiagen_C	0.6201550387596899	human forehead R	PS	human forehead R	PS	human	human forehead	low	Low biomass
+skin_forehead_T_1_microbiome2_C	skin_forehead_eluent_T_1_microbiome2_C	0.5443037974683544	human forehead T	MM (2-min.)	human forehead T	MM (2-min.)	human	human forehead	low	Low biomass
+skin_forehead_T_2_qiagen_C	skin_forehead_eluent_T_2_qiagen_C	0.569620253164557	human forehead T	PS	human forehead T	PS	human	human forehead	low	Low biomass
+skin_forehead_U_microbiome20_C	skin_forehead_eluent_U_microbiome20_C	0.5258620689655172	human forehead U	MM (20-min.)	human forehead U	MM (20-min.)	human	human forehead	low	Low biomass
+skin_forehead_V_microbiome20_C	skin_forehead_eluent_V_microbiome20_C	0.45121951219512196	human forehead V	MM (20-min.)	human forehead V	MM (20-min.)	human	human forehead	low	Low biomass
+uriF_P_1_microbiome20_L	uriF_P_2_microbiome20_L	0.6050156739811913	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+uriF_P_1_microbiome20_L	uriF_P_3_microbiome20_L	0.6350574712643678	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+uriF_P_1_microbiome2_L	uriF_P_2_microbiome2_L	0.5852090032154341	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_P_1_microbiome2_L	uriF_P_3_microbiome2_L	0.5333333333333333	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_P_1_qiagen_L	uriF_P_2_qiagen_L	0.5718654434250765	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+uriF_P_1_qiagen_L	uriF_P_3_qiagen_L	0.5307443365695793	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+uriF_P_2_microbiome20_L	uriF_P_3_microbiome20_L	0.5465116279069767	human.urine.P	MM (20-min.)	human.urine.P	MM (20-min.)	human	human female urine	low	Low biomass
+uriF_P_2_microbiome2_L	uriF_P_3_microbiome2_L	0.5559105431309904	human.urine.P	MM (2-min.)	human.urine.P	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_P_2_qiagen_L	uriF_P_3_qiagen_L	0.546875	human.urine.P	PS	human.urine.P	PS	human	human female urine	low	Low biomass
+uriF_S_1_microbiome20_L	uriF_S_2_microbiome20_L	0.5630252100840336	human.urine.S	MM (20-min.)	human.urine.S	MM (20-min.)	human	human female urine	low	Low biomass
+uriF_S_1_microbiome2_L	uriF_S_2_microbiome2_L	0.5666666666666667	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_S_1_microbiome2_L	uriF_S_3_microbiome2_L	0.5555555555555556	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_S_1_qiagen_L	uriF_S_2_qiagen_L	0.41025641025641024	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+uriF_S_1_qiagen_L	uriF_S_3_qiagen_L	0.42328042328042326	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+uriF_S_2_microbiome2_L	uriF_S_3_microbiome2_L	0.5660377358490566	human.urine.S	MM (2-min.)	human.urine.S	MM (2-min.)	human	human female urine	low	Low biomass
+uriF_S_2_qiagen_L	uriF_S_3_qiagen_L	0.5277777777777778	human.urine.S	PS	human.urine.S	PS	human	human female urine	low	Low biomass
+wat_F_A_1_microbiome20_L	wat_F_A_2_microbiome20_L	0.5123106060606061	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_A_1_microbiome20_L	wat_F_A_3_microbiome20_L	0.5391061452513967	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_A_1_microbiome2_L	wat_F_A_2_microbiome2_L	0.5135699373695198	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+wat_F_A_1_microbiome2_L	wat_F_A_3_microbiome2_L	0.506806282722513	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+wat_F_A_2_microbiome20_L	wat_F_A_3_microbiome20_L	0.5059288537549407	freshwater site 1	MM (20-min.)	freshwater site 1	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_A_2_microbiome2_L	wat_F_A_3_microbiome2_L	0.5329153605015674	freshwater site 1	MM (2-min.)	freshwater site 1	MM (2-min.)	water	freshwater	low	Low biomass
+wat_F_B_1_microbiome20_L	wat_F_B_2_microbiome20_L	0.5377358490566038	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_B_1_microbiome20_L	wat_F_B_3_microbiome20_L	0.5173076923076924	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_B_1_microbiome2_L	wat_F_B_2_microbiome2_L	0.5116044399596368	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+wat_F_B_1_microbiome2_L	wat_F_B_3_microbiome2_L	0.5287128712871287	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+wat_F_B_1_qiagen_L	wat_F_B_2_qiagen_L	0.5231788079470199	freshwater site 2	PS	freshwater site 2	PS	water	freshwater	low	Low biomass
+wat_F_B_2_microbiome20_L	wat_F_B_3_microbiome20_L	0.5195052331113226	freshwater site 2	MM (20-min.)	freshwater site 2	MM (20-min.)	water	freshwater	low	Low biomass
+wat_F_B_2_microbiome2_L	wat_F_B_3_microbiome2_L	0.5331262939958592	freshwater site 2	MM (2-min.)	freshwater site 2	MM (2-min.)	water	freshwater	low	Low biomass
+wat_S_A_1_microbiome20_L	wat_S_A_2_microbiome20_L	0.5319148936170213	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_A_1_microbiome20_L	wat_S_A_3_microbiome20_L	0.5443425076452599	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_A_1_microbiome2_L	wat_S_A_2_microbiome2_L	0.5440251572327044	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_A_1_microbiome2_L	wat_S_A_3_microbiome2_L	0.5672131147540984	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_A_1_qiagen_L	wat_S_A_2_qiagen_L	0.504	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+wat_S_A_1_qiagen_L	wat_S_A_3_qiagen_L	0.5418848167539267	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+wat_S_A_2_microbiome20_L	wat_S_A_3_microbiome20_L	0.5434782608695652	seawater site 1	MM (20-min.)	seawater site 1	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_A_2_microbiome2_L	wat_S_A_3_microbiome2_L	0.5049180327868853	seawater site 1	MM (2-min.)	seawater site 1	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_A_2_qiagen_L	wat_S_A_3_qiagen_L	0.5098039215686274	seawater site 1	PS	seawater site 1	PS	water	seawater	low	Low biomass
+wat_S_B_1_microbiome20_L	wat_S_B_2_microbiome20_L	0.554089709762533	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_B_1_microbiome20_L	wat_S_B_3_microbiome20_L	0.532394366197183	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_B_1_microbiome2_L	wat_S_B_2_microbiome2_L	0.5189504373177842	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_B_1_microbiome2_L	wat_S_B_3_microbiome2_L	0.49575070821529743	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_B_1_qiagen_L	wat_S_B_2_qiagen_L	0.5586034912718204	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
+wat_S_B_1_qiagen_L	wat_S_B_3_qiagen_L	0.565	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
+wat_S_B_2_microbiome20_L	wat_S_B_3_microbiome20_L	0.5487465181058496	seawater site 2	MM (20-min.)	seawater site 2	MM (20-min.)	water	seawater	low	Low biomass
+wat_S_B_2_microbiome2_L	wat_S_B_3_microbiome2_L	0.5102040816326531	seawater site 2	MM (2-min.)	seawater site 2	MM (2-min.)	water	seawater	low	Low biomass
+wat_S_B_2_qiagen_L	wat_S_B_3_qiagen_L	0.545	seawater site 2	PS	seawater site 2	PS	water	seawater	low	Low biomass
